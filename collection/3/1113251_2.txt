@@ -1,0 +1,1 @@
+It would appear that the power source for the flasher unit is commng from the headlight switch. You will need to locate this wire and connect it to a power source that is live, depending when you want the lights to flash use line is only live when the key is on ACC or ON  so that when you remove key you won't flattern battery by forgetting to turn lights off

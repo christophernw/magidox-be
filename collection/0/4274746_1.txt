@@ -1,0 +1,1 @@
+If you want to factor it, then (p-10)(p+4). . It is hard to explain how in words.  -10 and 4 are factors of 40 that add up to -6.. . That person that made it equal zero above, that is wrong unless the problem says p^2 - 6p - 40 = 0.  The person didn't put that in the question.

@@ -1,0 +1,1 @@
+If you are asking how they find the average life span of a certain groups of people, that is more viable. They take a sample space of people's ages when they died, add up the ages, and divide by the number of people in the sample space.

@@ -1,0 +1,1 @@
+Most traffic light intersections have a magnetic strip to detect if a vehicle is at the light.  Some are stronger than others so there could be a big variation.  This magnetic force could be interfering with your radio.  You can go to Radio Shack and get a noise limiter for your radio to reduce or even stop the static noise.

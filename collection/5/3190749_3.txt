@@ -1,0 +1,1 @@
+There are a total of 43 + 8 c's, or 51 c's.  All told they add up to the number 9.  You divide 51 by 9 to get the answer.  Let the answer be N, so. . 51c = 9. 51c / 9 = N. N = 5.66666666... or 5 2/3

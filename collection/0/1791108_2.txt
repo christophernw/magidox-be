@@ -1,0 +1,1 @@
+Hard to say if there's not a specific example.  However, in most of the circuits I use in my work (NMR Spectroscopy) the inductor is used with capacitors to match the output impedance of the probe with the input impedance of the rest of the system at a given frequency.  This allows for maximum power to be transmitted from one bit to the next.

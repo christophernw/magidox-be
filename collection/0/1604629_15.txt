@@ -1,0 +1,1 @@
+This is deliberate! It warns you that you are running out of gas. It tells you that you have to fill up your tank soon because the lamp will flash only for 50-60 more miles.

@@ -1,0 +1,1 @@
+log0 base 10=log10^0base10.             =1

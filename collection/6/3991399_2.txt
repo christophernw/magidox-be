@@ -1,0 +1,1 @@
+The basic theory is that if you pump steam into a place where there is a piston, the piston will move up.  Then you release the steam and the piston will go down.  You connect the piston to something to get movement, such as some gears that turn the propellers or connect them to the wheels.  It's a bit more complicated than that, but that's basically how it's done.

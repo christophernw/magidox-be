@@ -1,0 +1,1 @@
+The ignition coil from a car is a good way to be able to get a high enough voltage to run electric fences to keep away possums and the like. The rest is a matter of circuit design; a simple matter of using the design from the car and then buiding in a timer circuit to repeat the pulses.

@@ -1,0 +1,1 @@
+Depends what the gas is in.  If it is in a non-flexible space, the pressure will rise.  If space is not constrained, then the volume will increase.  It is caused by the atoms in the gas absorbing more energy, and vibrating faster (they are actually described as becoming excited)

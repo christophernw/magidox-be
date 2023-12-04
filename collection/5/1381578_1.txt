@@ -1,0 +1,1 @@
+There is an option of "Shown to all" in the Bluetooth Options. . Enable this.

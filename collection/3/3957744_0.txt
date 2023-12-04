@@ -1,0 +1,1 @@
+click on any area in the mindsweeper game.. a number will be displayed.. if its 2 that means the adjascent boxes around that number will be having 2 bombs in it.. likewise for each number.. if u click on a ny blank box (without any number) it will uncover its adjascent cells... . Go play the game..

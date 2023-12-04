@@ -1,0 +1,1 @@
+Maybe one of the door sensors is faulty, and it thinks a door has been opened when it has not.  That happened to me.

@@ -1,0 +1,1 @@
+AC is using a battery for power. DC is using electricity for power

@@ -1,0 +1,1 @@
+Ideal gases obey charles' law and boyle's law. Real gases obey only vander wal equations. the main difference between real gases and ideal gases is that real gases dont obey charle's law and boyle's law. this is in accordance with taking into account actual size of molecules and repulsion between them.

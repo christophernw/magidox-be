@@ -1,0 +1,1 @@
+(ax^2 + bx + c)(dx^2 + ex + f). =ax^2(dx^2 + ex + f) + bx(dx^2 + ex + f) + c(dx^2 + ex + f). =adx^4 + aex^3 + afx^2 + bdx^3 + bex^2 + bfx + cdx^2 + cex + f. =adx^4 + (ae + bd)x^3 + (af + be + cd)x^2 + (bf + ce)x + f

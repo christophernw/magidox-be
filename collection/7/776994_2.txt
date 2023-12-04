@@ -1,0 +1,1 @@
+I'll assume you have Windows XP.  Once it's plugged in, it will become a new drive on your PC.  Open up explorer and start copying from the mp3 player drive to your local drive.

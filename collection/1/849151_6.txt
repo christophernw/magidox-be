@@ -1,0 +1,1 @@
+The ball tries not to move.. . The wagon moves forward. . . So the back of the wagon moves nearer to the ball.. . Of course, the ball in fact moves a bit, because even if its a perfect sphere it takes some torque to make it roll.

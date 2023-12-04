@@ -1,0 +1,1 @@
+an on/off valve works only two position. . . on position = fully open . off position = fully closed . . these type valves can not regulate mass flow. only allow to flow or not. . . important valves in process control are regulating valves.

@@ -1,0 +1,1 @@
+factors are #s that can divide into a # without a decimal so the factors of 24 are 1,2,3,4,6,8,12 and 24. . hope this helped!

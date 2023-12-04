@@ -1,0 +1,1 @@
+You can open wordpad or notepad and drag the .dat file into the wordpad or notepad app. Or you can right click the file, and select something like "open with" and select wordpad or notepad. That should do the trick.

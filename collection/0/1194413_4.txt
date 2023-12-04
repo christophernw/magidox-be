@@ -1,0 +1,1 @@
+You want to keep breaking down the number until it is a product of nothing but prime numbers.. . 90 = 9 * 10  (no prime numbers). 90 = 3 * 3 * 10 (3 is a prime number). 90 = 3 * 3 * 5 * 2 (2, 3, 5 are prime numbers). 90 = 2 * 3^2 * 5 (you usually would put the numbers in ascending value, and use exponents for when a number is repeated)

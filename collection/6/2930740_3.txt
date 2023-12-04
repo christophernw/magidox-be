@@ -1,0 +1,1 @@
+The X is a letter which is worth 8 points.  The blank which can be anything, is worth 0 point.

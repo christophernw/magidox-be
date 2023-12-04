@@ -1,0 +1,1 @@
+Home base would be a precise location.  Ballpark gives the approximate position of home base, but not the exact position.

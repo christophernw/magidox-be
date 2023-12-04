@@ -1,0 +1,1 @@
+The difference is essentially semantic. An epidemic is an incidence of an illness (defined as new cases diagnosed per unit time in an observed region) greater than expected from prior data in similar populations. A pandemic is an epidemic that affects a large geographical area.

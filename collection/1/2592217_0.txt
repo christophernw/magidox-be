@@ -1,0 +1,1 @@
+you'll need a video out socket from your computer and a video or s-video connection on your TV. you then need to go to your display properties, settings and advanced. There you can set the resolution and other preferences from your video adaptor.

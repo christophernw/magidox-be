@@ -1,0 +1,1 @@
+It is an elctronic device that takes an ac or a dc input and converts it to a dc output at a specified voltage or current.The former is known as ac-dc converter and the latter dc-dc converter.

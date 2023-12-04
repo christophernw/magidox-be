@@ -1,0 +1,1 @@
+for a checking acct., the available balance may not include memo transactions.  Memo transactions are those that may have been presented for payment, but not officially cleared the acct.

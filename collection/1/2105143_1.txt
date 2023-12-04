@@ -1,0 +1,1 @@
+log 100 is equal to 2. . if you change the equation to its exponential form, you'll get . . 10^? = 100. . by looking at the equation you can easily see that 10^2 = 100.

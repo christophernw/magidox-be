@@ -1,0 +1,1 @@
+Circumference of circle = 2 x pi * r =1000 m (pi = 22/7 = 3.14). So r (radius) = 1000 / 2 x pi. Area of circle = pi x r square.                       = pi x (1000/2 x pi)square.                       = 1000000/4 x 3.14 sq M.                       = 79617.83 sq M approx

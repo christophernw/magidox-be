@@ -1,0 +1,1 @@
+Just include manufactor, the model, the year, the cost etc of the car.  Just as the person above said, "details of the car".

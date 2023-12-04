@@ -1,0 +1,1 @@
+Open MS Excel. in any cell write. =SQRT(22/7). the answer would be 1.7728105208558400

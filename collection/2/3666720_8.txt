@@ -1,0 +1,1 @@
+m- means to subract from the figures in the memory. m+ means adds to the figure in the memory

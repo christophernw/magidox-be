@@ -1,0 +1,1 @@
+Find the mol count for every compound in their original volumes.  Now divide the total moles of each compound by the total volume of the mixture.

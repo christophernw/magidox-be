@@ -1,0 +1,1 @@
+When you do multiplication or division, - and - makes +. - and + makes -. + and + makes +. So if you have three numbers, -, -, -, then your answer is -. For most people, it's easier to memorize than to ask "WHY".

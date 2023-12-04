@@ -1,0 +1,1 @@
+Water has a specific heat of 1.00.  The amount of heat required to raise the temperature of one pound of water 1 degree F is a BTU (British Thermal Unit).  It takes a pound of water to make a pound of ice (or steam).  The latent (hidden) heat is the amount of heat removed from water at 32 F to get ice at 32 F.

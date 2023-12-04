@@ -1,0 +1,1 @@
+Technically a microprocessor is an element/part where as cpu (central processor) is a unit/set of microprocessor(s)

@@ -1,0 +1,1 @@
+I have a feeling what you want to delete is your history.  If you are using Internet Explorer, click Tools, Options, General Tab, Delete History button.

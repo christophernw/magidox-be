@@ -1,0 +1,1 @@
+Since the slope is higher, the line would be steeper. Y-intercept is still 5. X-intercept would change: the equation y=2x+5 has an x-intercept of -2.5, while the equation y=4x+5 has an x-intercept of -1.25.

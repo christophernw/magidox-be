@@ -1,0 +1,1 @@
+substitution:  substitute for I in eq. 2, since you know that I=e/(r+R).  Then you can solve for r.  when you get that, go back to eq. 1 and plug in the numbers

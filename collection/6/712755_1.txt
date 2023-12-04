@@ -1,0 +1,1 @@
+Test the stator, the lack of proper current could be draining the battery a little and cause a miss fire which in turn causes the  gas to build up in the pipes. This happened to me last year.

@@ -1,0 +1,1 @@
+It does happen, and the reason is that hotter things lose heat faster than colder things do.  You can prove this in other ways too - for instance a cup of hot water will cool to room temperature faster than a cup of luke warm water in the same time - try it with two cups of water and two thermocouples connected to an electronic thermometer.

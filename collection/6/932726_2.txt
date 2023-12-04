@@ -1,0 +1,1 @@
+The edges are anywhere that 2 of the surfaces connect.  If you are given enough information, say the coordinates of one of the corners and some combination of length, width, height, surface area or volume, you should be able to draw it in 3-dimensional space.

@@ -1,0 +1,1 @@
+In graphics, when you resize a pic or whatever, it's kinda like the software makes an educated guess on what a pixel's color will be based on it's neighbor's color. Because pixels must be added or taken away to grow or shrink a pic.

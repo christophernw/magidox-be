@@ -1,0 +1,1 @@
+Actually there is a point where thrust and lift work together. This occures when you are "Behind the Power Curve" This condition exists during slowflight about 5 -10KIAS above stall speed.

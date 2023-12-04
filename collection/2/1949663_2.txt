@@ -1,0 +1,1 @@
+Momentum = Mass * Velocity = M * V (of the moving object). Force = F = Mass/g ; g is the acceleration of gravity. then;. Momentum = F * g * V. then the momentum related to the force produced by a moving object by its velocity multiplied by g

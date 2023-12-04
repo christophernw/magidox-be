@@ -1,0 +1,1 @@
+palindromes are words that are red the same when backwards. For example, "Was it a rat I saw?" is a palindrome, and so is "Able was I, ere I saw Elba."

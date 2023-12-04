@@ -1,0 +1,1 @@
+Basis points.  It's equivalent to .01%.  In T-bonds, the interest of the bond might be 5.012%, so the spread was widened by .08%.

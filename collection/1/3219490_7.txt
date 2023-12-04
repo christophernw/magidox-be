@@ -1,0 +1,1 @@
+go to Tools on the browser window, click internet options, u will see a button for Delete Cookies, et voila! ;-)

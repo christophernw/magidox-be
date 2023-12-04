@@ -1,0 +1,1 @@
+slope = rise /run so if you think about it, the higher the answer the steeper the slope (since a larger run will lead to a fraction or lower number)

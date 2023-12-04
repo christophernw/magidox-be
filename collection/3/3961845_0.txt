@@ -1,0 +1,1 @@
+It's not reversed, you only think it is. The left side reflects to the left side, the right side reflects back to the right side, same with top and bottom.

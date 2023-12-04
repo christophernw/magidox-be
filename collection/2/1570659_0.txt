@@ -1,0 +1,1 @@
+[x/(x+2)]. = [1/(1+(2/x))] --- divide the numerator & denominator by x.. . As x approaches +ve infinity, 2/x approaches 0.. So [x/(x+2)] approaches 1.

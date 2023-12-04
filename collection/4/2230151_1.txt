@@ -1,0 +1,1 @@
+In mathematics and solid state physics, the first Brillouin zone is the primitive cell in the reciprocal lattice in momentum space. It is found by the same method as for the Wigner-Seitz cell in the Bravais lattice.

@@ -1,0 +1,1 @@
+Heat is the amount of energy in a system. Heat is transfered through radiation, conduction and convection. Temperature is the MEASURE of the AVERAGE molecular motions in a system and simply has units of (degrees F, degrees C, or K).

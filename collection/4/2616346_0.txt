@@ -1,0 +1,1 @@
+In this case the question is easier than the general Fermat's case, because:. left side is even,. right side is odd,. so there is no solution.

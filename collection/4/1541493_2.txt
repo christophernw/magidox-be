@@ -1,0 +1,1 @@
+Plastic deformation is a permanent shape change that cannot be undone by simply removing the load. Usually associated with overloading and damage.. Conversely elastic deformation is completely reversed by removal of the load. Springs work due to elastic deformation.

@@ -1,0 +1,1 @@
+It prevents the pills from breaking by not allowing them to move around as much on the inside.

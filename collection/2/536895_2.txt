@@ -1,0 +1,1 @@
+Shows if poison gas is present in the air down below

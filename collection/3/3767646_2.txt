@@ -1,0 +1,1 @@
+The Fourier transform is a special case of the LaPlace transform.. . Specifically s = jw, where w is the frequency in radians, j is square root of negative one (I'm an EE so we use j not i)

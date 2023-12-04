@@ -1,0 +1,1 @@
+there is an electric switch in the tank, it works off a resistor, basically, a full tank will have less resistance than an empty tank, what probably happened it when you put the pump back in the tank, you might have bound up the switch, so you may want to undo it and reinstall it again.

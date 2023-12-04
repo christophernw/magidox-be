@@ -1,0 +1,1 @@
+Double click on the Recycle Bin icon.  The deleted files should show up here - and select the files that you want to undelete.

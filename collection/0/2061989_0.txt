@@ -1,0 +1,1 @@
+Well there isn't a cheat to actually get bigger lots but you can use this cheat to place objects out side the grid:. . boolProp snapObjectsToGrid true

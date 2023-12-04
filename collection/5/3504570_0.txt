@@ -1,0 +1,1 @@
+It wouldn't work.. . It needs an AC adaptor because it feeds a split rectifier bridge to give it + and - rails.

@@ -1,0 +1,1 @@
+Your XBox must be set on a widescreen mode if it's side by side. I find that side by side is easier when playing with 2 people on the same screen, but that's me. To fix this, turn on your XBox with no game in the tray, and go to settings and change the video display mode back to normal (4x3 instead of 16x9). Hope that helps!

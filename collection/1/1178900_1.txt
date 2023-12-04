@@ -1,0 +1,1 @@
+Yes, could be the 'beeps', or a midi file (*.mid) or an mp3. Some even supposrt the use of wave files (*.wav)

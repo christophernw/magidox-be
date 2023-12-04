@@ -1,0 +1,1 @@
+Divide successively by the smallest prime number until it no longer goes exactly into the remaining number. Then move on to the next larger prime number.. . 90. / &#92;. 2 45. . ./ &#92;. . 3 15. . .  / &#92;. . . 3 .5. . Prime factors of 90 are 2, 3, 3, 5

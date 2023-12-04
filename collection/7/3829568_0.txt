@@ -1,0 +1,1 @@
+Fibonacci numbers define a sequence of integers where, after two starting values, each number is the sum of the two preceding numbers.  The first two Fibonacci numbers are defined to be 0 and 1, giving the sequence. 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, .... . Sometimes a definition is seen where the first two numbers are 1 and 1 (ignoring the zero).

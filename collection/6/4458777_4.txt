@@ -1,0 +1,1 @@
+Check the air bag relay. Remove the negative cable from the battery and swap a relay you know to be good into the air bag one and then reconnect the battery to see if the light still comes on. If it's not the relay then don't mess around with the airbags, they are literally explosive.

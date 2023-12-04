@@ -1,0 +1,1 @@
+A coefficient is the constant that acts on a variable. In this case x/2 is really 1/2 * x. So the coefficient is 1/2.

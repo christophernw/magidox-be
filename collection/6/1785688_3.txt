@@ -1,0 +1,1 @@
+Derivative is equal to n(x)^(n-1). n being the raised coefficient (in this case, 3) and x being your function (in this case, 4x^3). . So,. (3(4x))^(3-1). =12x^2 (first derivative). . 24x is second derivative

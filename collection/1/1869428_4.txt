@@ -1,0 +1,1 @@
+Circumference is 2*pi*r where pi=3.14 and r=diameter/2.

@@ -1,0 +1,1 @@
+Choice of reference simply means that you could designate a fixed potential -- o, positive or negative to a particular point, and then calculate the potential with respect to that point. P.D. on the other hand always remains fixed between two points -- no matter what your reference is!

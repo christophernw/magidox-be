@@ -1,0 +1,1 @@
+I've heard of Lego polygraphs.  What you can do is buy the Lego Robotics kit and program the computer part of the robot to detect perspiration and body temperature.  If you see a significant increase in perspiration and body temperature within a short period of time after they began to tell the "truth", then that computer will pick it up.  Pretty neat, huh?

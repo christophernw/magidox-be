@@ -1,0 +1,1 @@
+This is common on stereo equipment that has a tape deck. If the tape deck is recording the AM radio, it is possible for the tape recording equipment to produce a "beat tone" in the receiver. This switch will supress the beat tone. However, this switch will reduce some frequency response, so you wouldn't want to turn it on unless you need it.

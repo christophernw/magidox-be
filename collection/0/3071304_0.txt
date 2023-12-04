@@ -1,0 +1,1 @@
+011 44 20 . . 011 011 is the international prefix used to dial somewhere outside of U.S.A.. . 44 44 is the international code used to dial to U.K.. . 20 20 is the local area or city code used to dial to London.  . X X is the local number you wrote. Exchange X with your number

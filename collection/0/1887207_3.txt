@@ -1,0 +1,1 @@
+The ampacity (current capacity) of an electric cable is limited by the cable's capacity to dissipate thermal power.  The ampacity of a cable is equal to the cable’s thermal power rating per unit length divided by its resistance per unit length.

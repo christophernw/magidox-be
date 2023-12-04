@@ -1,0 +1,1 @@
+Outfit two trucks with receivers driven by directional antennas.  With the trucks a reasonable distance apart, each antenna is adjusted for maximum signal reception of the jammer.  Plot the location and direction of each antenna on a map; where the direction lines intersect, that's the jammer location.

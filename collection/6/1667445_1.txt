@@ -1,0 +1,1 @@
+Use trigonometry.  . Sin = Opposite/Hypotenuse. Cos = Adjacent/Hypotenuse. . Hypotenuse = scalar momentum. Opposite = vertical component. Adjacent = horizontal component. . The angle is given.  Just multiply the trig function results by the scalar momentum and voila!

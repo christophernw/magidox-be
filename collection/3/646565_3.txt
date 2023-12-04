@@ -1,0 +1,1 @@
+try graphing y=(5-7x)/5. or the simplified version of y=1-(7/5)x. . you need to get y alone

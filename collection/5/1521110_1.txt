@@ -1,0 +1,1 @@
+sim is a type of chip which works on the longitudinal waves but of short wavelength i.e why more towers are needed for mobiles to work properly.

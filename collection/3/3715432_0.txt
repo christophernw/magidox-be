@@ -1,0 +1,1 @@
+It is a company name and their main product which allows you to test the bore sizes of objects quickly as in a production line or quick random sampling.  A bore size is basically the size of the hole in the item, like you use a drill bit to drill a hole in a board, the bore size is the size (usually diameter and depth) of the hole.

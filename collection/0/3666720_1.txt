@@ -1,0 +1,1 @@
+For adding and subtracting numbers in the memory of the calculator.

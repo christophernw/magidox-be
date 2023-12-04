@@ -1,0 +1,1 @@
+I tend to think of a differential as simply the variable that represents the functional derivative.  Just as x usually represents some number, a differential always represents a derivative of the function x.

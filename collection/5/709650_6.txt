@@ -1,0 +1,1 @@
+ok firstly. . w^2 can be multiplied to 3 to give 3w^2. . Hence we can use the quotient rule. . u = 3w^2. du = 6w. v = 8w^3. dv = 24w^2. . hence, V(w) = [v(du)-u(dv)] / v^2,. . [8w^3(6w)-(3w^2)(24w^2)] / (8w^3)^2. . simplifying the equation above you should get. . -(24w^4 / 64w^6). . hence = -(3w^4 / 8w^6)

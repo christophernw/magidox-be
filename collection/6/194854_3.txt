@@ -1,0 +1,1 @@
+It is linked to a bank account -- checking or savings -- and the money is deducted from what you have deposited in that account.  Sometimes a larger amount is actually held on the account until the transaction is fully processed.

@@ -1,0 +1,1 @@
+Implosion causes the item to collapse in on itself and an explosion causes the item to burst outward.

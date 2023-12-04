@@ -1,0 +1,1 @@
+As long as there is boiling water in the container the cooker maintains a certain temperature ( in this case 100) and once the water gets exhausted the temperature raises to 212 F and then turns off. It is not only in rice cooker but in many other appliances

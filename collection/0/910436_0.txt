@@ -1,0 +1,1 @@
+The force of gravity is inversely proportional to the square of the distance between two objects. The further you get away from Earth, the lower the force of gravity between you and the earth.

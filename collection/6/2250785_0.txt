@@ -1,0 +1,1 @@
+A macro manager manages at the correct level. i.e. the big picture. A micro manager is just a supervisor who meddles.

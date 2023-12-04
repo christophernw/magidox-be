@@ -1,0 +1,1 @@
+Only in an Exchange environment can you recall a sent message, and it is not always successful. To attempt, open the sent message, and click Actions, Recall this message.

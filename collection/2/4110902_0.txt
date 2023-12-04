@@ -1,0 +1,1 @@
+Cyanide is an extremely potent inhibitor of the enzyme cytochrome c oxidase (an enzyme of the cytochrome P450 family).  This is part of Complex IV in the electron transport chain.  As a result, oxygen cannot accept an electron completing the chain.

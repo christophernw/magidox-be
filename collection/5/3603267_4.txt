@@ -1,0 +1,1 @@
+By that, I'm guessing you mean that we're supposed to factor:. . a^3 - ba^2 + ab^2 - b^3.. . This factors into:. . (a^2 + b^2)(a - b).. . To check this, you just multiply it out. . . Hope that helped.  Have fun!

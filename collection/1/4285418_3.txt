@@ -1,0 +1,1 @@
+It doesn't matter what the initial velocity is, the acceleration due to gravity is 9.8 m/s^2

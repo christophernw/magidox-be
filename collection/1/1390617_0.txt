@@ -1,0 +1,1 @@
+"Sales Discounts" is a Contra-Revenue account.  It is grouped with the Revenue items but its normal balance is a debit.

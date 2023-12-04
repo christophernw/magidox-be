@@ -1,0 +1,1 @@
+A seismograph measures the strength and direction of earthquake waves. It records the tremors and compares their strengths on the Richter scale. A scale of one is a minor earthquake, while a scale of seven is severe.

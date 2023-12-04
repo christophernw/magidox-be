@@ -1,0 +1,1 @@
+1.GET WMP 11. . 2.Import your mp3s into the WMP library. Organize it as you like, create playlists or whatver you want.. . 3.If your player syncs ok with WMP (check and be sure first), then connect it and click on the sync tab, when you see your player is recognized, then click on start sync.

@@ -1,0 +1,1 @@
+Allow fire alarms to be tied into the Broadband network the phone company is building.  Have the phone company dedicate a small portion of bandwidth to local firehouses for a monitoring system.  Essentially the house notifies the fire department when an event occurs and of its severity.

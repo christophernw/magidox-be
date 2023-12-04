@@ -1,0 +1,1 @@
+Both the other answers are correct, but the biggest difference is that vacuum tubes are basically voltage amplifiers.  Transistors are mostly current amplifers.

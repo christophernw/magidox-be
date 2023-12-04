@@ -1,0 +1,1 @@
+I think the unstoppable object will change it's direction of motion and continue to move.  The unmovable object will remain steady , probably with some damage.

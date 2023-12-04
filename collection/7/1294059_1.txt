@@ -1,0 +1,1 @@
+pi can be the ratio of the circumfrence to the diameter (pi=circumfrec/diameter) or ratio of area to the radius squared.  Find some way to show a relation visually between the circumfrence and the diameter.

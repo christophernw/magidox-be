@@ -1,0 +1,1 @@
+SIMPLE INTEREST IS CALCULATED ON BASE VALUE.. . SAY U DIPOSIT $ 100 FOR 5% INTEREST PER UEAR. 1st year u get  $5 (total amount 105)second year $5(total amount 110) so on and so on..... . there fore. . total amount = base amount+base amount *interest rate (per year)*time period (in years)

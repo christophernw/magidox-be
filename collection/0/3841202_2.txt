@@ -1,0 +1,1 @@
+you can use almost any cam as a webcam, if the cam has an a/v out. you also gotta have some sort of video capture device, and then software to place the captured image in to your imaging software

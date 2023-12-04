@@ -1,0 +1,1 @@
+When you softly place a pin onto the surface of water (horizontally) it doesn't sink because the weight of the pin is balanced by the upward (vertical) component of surface tension. When you add a detergent powder it reduces the viscosity of water and hence the upward force due to vertical component of surface tenbsion decreases and hence it sinks.

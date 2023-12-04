@@ -1,0 +1,1 @@
+Electronic diodes use transistors, so when the voltage goes below 0, it shuts off the current. It's called a synchronous rectifier. . PDF Version: http://focus.ti.com/lit/an/slua287/slua287.pdf. HTML Version: http://ec.irf.com/v6/en/US/adirect/ir?cmd=catProductDetailFrame&productID=IRHSLNA57064:

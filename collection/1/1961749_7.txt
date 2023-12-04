@@ -1,0 +1,1 @@
+our shadow does not appear wavy as our size is much larger as compared to the wavelength of light.if we make light pass thru a small hole whose aperture is comparable to the wavelength of light we would se alternate light and dark bands due to diffraction.this phenomenon is only explained by the wave nature and not the particle nature of light

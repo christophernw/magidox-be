@@ -1,0 +1,1 @@
+Its just making sure that everything works correctly and is safe to use, that it passes all its tests and is able to do the required job

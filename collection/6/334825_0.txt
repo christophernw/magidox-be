@@ -1,0 +1,1 @@
+When your engine is running stuff like the headlights run off the alternator, not the battery.  When you start your car, the entire load is on the battery since the alternator isn't spinning yet.. . My guess is that your battery is dead and needs to be replaced.

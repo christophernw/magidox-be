@@ -1,0 +1,1 @@
+carbon NMR detects the carbon activity, and only C will show up on the spectrum. the Proton NMR detects how many protons there are in a molecule, no carbon activity will be shown. They use the same machine.

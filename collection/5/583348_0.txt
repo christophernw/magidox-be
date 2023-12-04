@@ -1,0 +1,1 @@
+it provides an analog and ethernet connection for your PS2. you have to create a network configuration profile saved to your memory card with your network settings.

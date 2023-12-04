@@ -1,0 +1,1 @@
+binary uses zeros and ones like an on off switch.  zero is off and one is on.  binary is a huge compilation of series of off/on commands.  each letter is assigned a series of off/on protocols.  actually every that uses the word digital works off of this principal, on off on off on on off on on on off off offf off on on on off on on off off

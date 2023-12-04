@@ -1,0 +1,1 @@
+topic = something to talk about. . issue = usually a problem that needs solving, sometimes with advice or input from other people

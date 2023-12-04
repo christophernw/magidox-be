@@ -1,0 +1,1 @@
+To factorise this, (x-y)(x-y), further, just change it to (x-y)^2.. . Otherwise, you would be expanding it.

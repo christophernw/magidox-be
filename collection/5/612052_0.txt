@@ -1,0 +1,1 @@
+Radio shack sells an RF modulator for about $20-30 U.S. that will do the trick.  However, if you have a VCR, you can hook the DVD up to the VCR, tune the VCR to the Aux input and use the coax hookup from the VCR to the TV.  It dose the same thing the RF modulator does. (and that is how mine is rigged, right now watching Chronicles of Narnia.)

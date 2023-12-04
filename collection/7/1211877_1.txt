@@ -1,0 +1,1 @@
+Geometry - angles to bounce and rebound on target. 3 1/2 x 7 or 4 x 8 table, the angles are the same. . Inertia - to stick a ball or spin it so it goes where you want. . Laws of motion - to move and object in one direction whne hit with a different direction

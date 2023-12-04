@@ -1,0 +1,1 @@
+Gravitational potential energy is mgh, yeah. That value is in joules, so go ahead and play around with that if you want.

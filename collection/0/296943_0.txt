@@ -1,0 +1,1 @@
+assuming you're using Internet Explorer, go to tools, internet options, clear history, delete cookies, delete files, then go to the content tab, click autocomplete and uncheck the boxes there then hit OK.

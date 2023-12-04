@@ -1,0 +1,1 @@
+calculating PI to its termination point or til it begins repeating. . theoretically impossible

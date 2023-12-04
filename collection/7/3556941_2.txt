@@ -1,0 +1,1 @@
+Temperature changes the density of object.  It's much easier than compression.  That's why densities are usually given at 25°C.

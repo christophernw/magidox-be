@@ -1,0 +1,1 @@
+You would need to change out IC chips.  It wouldn't be too easy.  You might consider setting up a bigger antenna.

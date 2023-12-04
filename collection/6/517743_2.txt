@@ -1,0 +1,1 @@
+When using the wall tool; press down the "Ctrl" key and click down on the wall portions you want to remove; then while holding down the right mouse button, go over the walls you want removed (note you still need to hold down the "Ctrl" key) and then release on the mouse key; then the "Ctrl" key and it should remove the walls you want removed. Hope this information helps.

@@ -1,0 +1,1 @@
+Requisition. Streamlines the requisition process to allow employees to request supplies, fixed assets, or inventory. Approval process is used to verify that requisition is valid.

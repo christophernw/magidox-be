@@ -1,0 +1,1 @@
+polynomial long division (see site below). . the answer is x+6 with a remainder of -10x^2-3x-31

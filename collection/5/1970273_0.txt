@@ -1,0 +1,1 @@
+its the other way round. a thing is hot if its molecules are moving with a higher thermal velocity (prop to T^1/2). if you heat something its molecular vibrations go up in turn increasing its temperature.

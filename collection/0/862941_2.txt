@@ -1,0 +1,1 @@
+You would need a battery isolator and run all of your added accessories to the aux battery. The battery isolator will keep the main battery from going dead while all of your electronic toys are in operation. The instruction for the wiring are with the isolator, and I would recomend using an Optima sealed gel cell battery if you plan on mounting it in the car.

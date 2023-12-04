@@ -1,0 +1,1 @@
+I think you are using Aluminum Sulfate, which is Al2(SO4)3. Molarity is defined as Moles per Liter, so the first thing to do is convert 210g Al2(SO4)3 to Moles. There are approximately 342.3g in one mole of Al2(SO4)3, so, after converting, you have about .613 Moles of Aluminum Sulfate. Then you can simply divide .613 by 2.75, giving you a molarity of .223.

@@ -1,0 +1,1 @@
+It is determined by the length of the refractory period.. . The absolute refractory period is the time after an action potential that absolutely no stimulus can produce another AP.. . The relative refractory period is the time in which it would take an abnormally high stimulus to trigger another AP. This is while the membrane is hyperpolarized.

@@ -1,0 +1,1 @@
+Noise happens during the encoding part of the communication process. You have the sender, to encoding, to transmission device, to decoding, to receiver, then feedback to the sender.

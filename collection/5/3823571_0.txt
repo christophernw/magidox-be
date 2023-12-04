@@ -1,0 +1,1 @@
+pnr/100. p principle. n no of years. r rate of interest

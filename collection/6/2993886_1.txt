@@ -1,0 +1,1 @@
+The work done to lift the box to that height is stored in the body as the potential energy. Hence the work done is 400 J.. . As for the height, potential energy is given by m*g*h, and the weight is given by m*g (=200N here).. Therefore, 200h = 400 => h = 2m.

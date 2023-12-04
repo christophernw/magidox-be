@@ -1,0 +1,1 @@
+The ejection of water WILL effect the shuttles attitude (direction). Any mass accelerated out will have an equal and opposite force against the shuttle (Newton's laws). But as it happens, the on board gyroscope detects minor forces causing permutations to the craft and compensates with thrusters.

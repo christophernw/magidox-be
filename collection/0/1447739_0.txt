@@ -1,0 +1,1 @@
+A congressional district is a section of a state that elects a representative to the House of Representatives.  Each district has one representative, so the number of districts is equal to the number of Representatives in the House.

@@ -1,0 +1,1 @@
+Mortality rate is a measure of the number of deaths (in general, or due to a specific cause) in some population, scaled to the size of that population, per unit time. Mortality rate is typically expressed in units of deaths per 1000 individuals per year.

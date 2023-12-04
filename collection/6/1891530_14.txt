@@ -1,0 +1,1 @@
+1,2,3,4,6,8,12,24. In pairs these are 1&24, 2&12, 3&8, 4&6. The factors are just pairs of whole numbers which can be multiplied to make 24

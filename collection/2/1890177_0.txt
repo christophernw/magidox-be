@@ -1,0 +1,1 @@
+You need to know the density of whatever it is you want to convert.  1 ml of water at 4 degrees C is has a mass of 1 g or 1000 mg.  To convert any other liquid you must multiply by the specific gravity or density.

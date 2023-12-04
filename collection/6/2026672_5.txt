@@ -1,0 +1,1 @@
+There are two system of units which represent temperature,. . the relation between them is,. . (F-32)/180 = C/100

@@ -1,0 +1,1 @@
+Convert the equation from logarithmic form to exponential form and take the fourth root of both sides.. . logx(256) = 4. x^4 = 256. sqrt4(x^4) = sqrt4(256). x = 4

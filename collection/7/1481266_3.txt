@@ -1,0 +1,1 @@
+C=1000, and C=(pi)x(diameter), therefore diameter=318.31. . A=(pi)x(radius)^2 ---- since we know diameter=318.31, radius=159.15. . A=(3.14)(25328.72). A=79572.52. . hope this helps!

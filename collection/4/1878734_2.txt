@@ -1,0 +1,1 @@
+Every point in the x,y plane has a unique set of Cartesian (rectangular) coordinates.. Since no ray has a unique angle measure, (e.g. 30 and 390, -330, etc. all look like the same # of degrees) Polar Coordinates are not unique.

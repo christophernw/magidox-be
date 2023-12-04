@@ -1,0 +1,1 @@
+The time zone for IST covering the extreme east and west of the country.  The time  is based on Delhi.  Local times on the basis of sun may vary. It has to be added with GMT and not deducted.  When it  is TWELVE .  noon ?hours in GMT it is FIVE HOURS  THIRTY MINUTES P M "  seventeen thirty hours.ist.

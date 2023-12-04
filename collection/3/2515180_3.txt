@@ -1,0 +1,1 @@
+a table of sunrise/sunset and moonrise/moonset data. http://aa.usno.navy.mil/data/docs/RS_OneYear.html. . formulas. http://www.jqjacobs.net/astro/astrofor.html

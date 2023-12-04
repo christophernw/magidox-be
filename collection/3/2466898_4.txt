@@ -1,0 +1,1 @@
+It sounds like you're trying to run alot of these LED's, which means that you'll want to either run a wire directly to the battery, and use the switch, or try running it through the switched ignition wire that supplies your radio with power.  . . Of course, if you don't know what you're doing, you'll continue making things worse, instead of better.

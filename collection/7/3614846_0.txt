@@ -1,0 +1,1 @@
+it sounds like the wires might be shorting.  check all the wires and make sure all the wire jacketing is not broken or stripped and none of the wires are touching.  If they are, either splice and remove the broken section of wiring or tape the broken piece with black electrical tape.

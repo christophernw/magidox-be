@@ -1,0 +1,1 @@
+cc means Cubic Centimeters. It tells you the displacement in the engine. The more displacement the more power.

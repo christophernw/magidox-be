@@ -1,0 +1,1 @@
+actually it is not the sound that travels through the fiber optics.. its the signal that carries sound... from analog signal(sound/speech) converted to digital pulses

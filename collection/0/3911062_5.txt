@@ -1,0 +1,1 @@
+This is on mathematical induction. 1x1 + 2x2 + 3x3 + ..... + 100x100 +..nxn. 1^2 + 2^2 + 3^2 + ..... + 100^2 +...n^2 = n(n+1)(2n+1)/6. and taking n=100 it is giving as 338350

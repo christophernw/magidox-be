@@ -1,0 +1,1 @@
+That is the voltage measured from any leg of a 480V 3 phase circuit to neutral.  If you search around you may be able to find a 277 V AC to 120 V AC transformer and use it in reverse.  What do you have that requires 277 V AC?

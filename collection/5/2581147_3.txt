@@ -1,0 +1,1 @@
+The mass number represents the total number of protons and neutrons within the atom, the atomic number represents only the number of protons. As the number of neutrons can never be negative than the mass number is always equal to or greater than the atomic number.

@@ -1,0 +1,1 @@
+It's definitely a proton.  Consider the configuration of a hydrogen atom:  it consists of one proton in its nucleus and one electron orbiting the nucleus.  If you remove the electron to make a hydrogen ion, what do you have left?

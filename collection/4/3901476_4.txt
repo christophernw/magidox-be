@@ -1,0 +1,1 @@
+A CCD is a Charged Coupled Device. It's a device with a lot of tiny light sensitive capacitors in it. Or, to you and me, a video camera.

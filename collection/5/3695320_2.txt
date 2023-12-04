@@ -1,0 +1,1 @@
+MMC appears to have been introduced first.  SD uses same physical form factor but adds a small (tiny) slide switch on the side edge of the package allowing you to 'secure' your data (prevents recording/writing to the memory chip), by sliding it to the 'secure' position (away from the contact pins in my experience).

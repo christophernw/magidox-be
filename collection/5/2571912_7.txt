@@ -1,0 +1,1 @@
+It's a composite probability of 2 independent events, therefore it is obtained as product of each:. . P= 0.5 x 0.5 = 0.25

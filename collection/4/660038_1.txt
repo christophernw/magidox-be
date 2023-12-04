@@ -1,0 +1,1 @@
+one wire from the battery to the switch.  one wire from the switch to the light. one wire from the light to the battery.

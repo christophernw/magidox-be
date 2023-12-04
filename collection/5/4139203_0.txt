@@ -1,0 +1,1 @@
+well if you happen to have a graphics calculator then this is easy.... just key in normalcdf(30,50,42,6)= answer. normalcdf(lower boundry, upper boundry, mean, standard deviation)

@@ -1,0 +1,1 @@
+(x-y)the whole square which is equal to xsquare-2xy+ysquare

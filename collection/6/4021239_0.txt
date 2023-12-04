@@ -1,0 +1,1 @@
+The usual five-pointedstar is formed by extending the sides of the pentagon until they meet outside the pentagon.  In this case, the base angles of the triangles have measure 72 degrees, and the vertex angle has measure 36 degrees.When you erase the original pentagon, the large interior angles are. 252 degrees, and the exterior angles are 108 degrees.

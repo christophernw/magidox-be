@@ -1,0 +1,1 @@
+It's an Entity Relationship diagram. It is a graphical representation of data models and is typically used when designing a database or other information system.

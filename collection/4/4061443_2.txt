@@ -1,0 +1,1 @@
+Just to add some info because both previous answers are correct--audio frequencies usually range from Hz to 20,000 Hz.  Most people lose the 20,000 Hz hearing early in life.  You see many audio frequency amps today specifying peak frequencies of 50,000 Hz.  Why?? I have no idea.  . . Subwoofer amps concentrate on the below 60 Hz to 200 Hz range for bass.

@@ -1,0 +1,1 @@
+doc is wrong about inertia; the reason they move the same speed is because they are in the same inertial frames, it is inertia. other than that he is right. m3galomaniac is also right

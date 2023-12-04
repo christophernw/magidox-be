@@ -1,0 +1,1 @@
+download an N64 emulator, and play them using that

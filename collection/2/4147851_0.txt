@@ -1,0 +1,1 @@
+Air is a good insulator as far as it doesn't circulate. It has low conductivity (about 1,4 Btu/ft h ºF), but if you let the air circulate there can be a very good heat transmission due to convection.. That's why insulators try to trap small amounts of air inside, so the air stays immobile.. Vaccumm would be a much better insulator.

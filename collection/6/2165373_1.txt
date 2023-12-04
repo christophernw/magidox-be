@@ -1,0 +1,1 @@
+Ultimately to act as a switch and automatically open the circuit and to protect the circuit wiring and appliance in the event of an overload, short circuit or ground fault condition.(thermal trip heat sensor). Larger CBs allow an overload to occur briefly to allow motors to start up and are also fitted with an adjustable instantaneous trip unit (magnetic sensor).

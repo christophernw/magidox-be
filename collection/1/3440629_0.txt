@@ -1,0 +1,1 @@
+Multistage pumps are genrally centrfugal pumps. They are stacked in series- That is outlet from one is connected to inlet of the second one, and outlet from second is conncted to inlet of third and so on.

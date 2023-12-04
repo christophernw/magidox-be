@@ -1,0 +1,1 @@
+Apply Joule- Thompson effect.ie,When you pass compressed air into small orifice, the air gets cooled, and the pressure will be dropped.  The air contain about 78%Nitrogen& about 20% Oxygen. We can separate Oxygen from Nitrogen by using their difference in boiling points.

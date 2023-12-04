@@ -1,0 +1,1 @@
+Abreviation for weight in US pounds.

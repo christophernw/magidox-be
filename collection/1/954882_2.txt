@@ -1,0 +1,1 @@
+White lights are HID. If its not, the lights have a yellow tinge to it.

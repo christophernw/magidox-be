@@ -1,0 +1,1 @@
+frequency ,amplitude,wave length,type of wave ,environment that wave propagates in there

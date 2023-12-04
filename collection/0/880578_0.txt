@@ -1,0 +1,1 @@
+microstripline. .  A type of high-frequency transmission line configuration that has a specific, characteristic impedance value. It consists of a conductor placed in a precise relationship with a ground or reference plane and surrounded by dielectric materials

@@ -1,0 +1,1 @@
+96/100=48/50=24/25. . Just divide both top and bottom by a common multiple of each until you can no longer divide both by the same factor.  In this case,  I used 2 twice.

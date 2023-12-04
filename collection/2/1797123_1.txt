@@ -1,0 +1,1 @@
+Usually r is radius. Or if it is what you say then it is r/r+1

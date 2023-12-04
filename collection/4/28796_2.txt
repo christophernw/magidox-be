@@ -1,0 +1,1 @@
+The object is still in flux, objects expands and contracts based on their temperature and may give false readings when weighed when still hot. You should continue to weigh an object when it cools to a point that it reaches a constant temperature to get the most accurate reading.

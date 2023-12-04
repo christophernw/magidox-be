@@ -1,0 +1,1 @@
+The physics behind the wind is atmospheric pressure difference. Due to some reason when a portion of an atmosphere loose its pressure wind originates, which try to equal the pressure of neighboring space.

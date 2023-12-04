@@ -1,0 +1,1 @@
+It doesn't take that much to keep the train moving. It is changes in speed that require torque and traction. So it does this by accelerating/decelerating very gradually.

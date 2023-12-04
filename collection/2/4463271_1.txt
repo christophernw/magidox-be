@@ -1,0 +1,1 @@
+I assume you are talking about vector analysis.  The graphical method would be drawing the vectors head to tail and to scale. and then drawing in the resultant and using your ruler and protractor to measure the displacement and angle.

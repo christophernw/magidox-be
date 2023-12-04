@@ -1,0 +1,1 @@
+Use this simple equation to dtermine if a person is lying:  V=IR. V is voltage in volts. I is intensity in amps. R is resistance on ohms.. When someone lies, they sweat. Therefore, resistance goes down. And intensity will go up if you keep voltage constant.

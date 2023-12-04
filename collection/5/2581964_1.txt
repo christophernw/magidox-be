@@ -1,0 +1,1 @@
+Case name, case Sup Ct number, identification of the transcript, page and line number. . Your footnote would look like this:  Smith v. Jones, Supreme Court cause 06-12345, Appellant's original oral argument, transcript page 17, lines 5 - 9

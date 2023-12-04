@@ -1,0 +1,1 @@
+Weather satellites are used to collect basic data, such as temperature and moisture levels, which allows experts to predict weather to a reasonable extent. Past attempts to control weather have been largely unsuccessful and have centered mainly in trying to create rain.

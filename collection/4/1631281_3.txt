@@ -1,0 +1,1 @@
+First, find a way to validate existance in general.  If you can do that, then we can talk about specifics.. . Anyway, validation is overrated.  Assume you exist and get on with life.

@@ -1,0 +1,1 @@
+It is the amount of weight that the crane can lift safely without going beyond the capacity of the cables, tipping, etc.

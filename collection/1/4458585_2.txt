@@ -1,0 +1,1 @@
+atomicity of an element is defined as the no of atoms of that element present in one molecule of that same element. the atomicity of oxygen is 2 (atom: O, molecule: 02). all halogens have atomicity 2. atomicity of sulphur is 8 (S8). atomicity of zinc is 1 (Zn)

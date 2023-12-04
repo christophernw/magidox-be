@@ -1,0 +1,1 @@
+anything times 0=0 so the only way it can is if n is 0

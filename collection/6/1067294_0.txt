@@ -1,0 +1,1 @@
+The ohms rating is how much impedence the speaker has. It is very important to use the ohm speaker specified by the manufacturer or you can burn up the speakers and/or equipment. For example if you have a receiver rated at 100 watts with 8 ohm speakers, and put 4 ohm speakers (which is half the rated load) it will consume 200 watts of power.

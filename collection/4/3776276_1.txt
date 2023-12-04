@@ -1,0 +1,1 @@
+Its a lot easier to just use the keyboard controls then the top navigation controls.. . Just hold the Ctrl key and hit the +- ket at the top of the keyboard.  This should work in nearly any browser (IE, FireFox, Safari, Opera, etc...)

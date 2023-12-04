@@ -1,0 +1,1 @@
+This the standard definition:. . One second is the duration of 9192631770 periods of radiation corresponding to unperturbed transistion between the two hyperfine levels (F=4,M=0 and F=3,M=0) of the ground state of Cs-133 atom.

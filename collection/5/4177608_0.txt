@@ -1,0 +1,1 @@
+Let y = arccosine x. then x = cos y. first put a value for y and get the corresponding value of x. Draw the graph

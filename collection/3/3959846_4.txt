@@ -1,0 +1,1 @@
+x^2 - b^2 = 0. . can be factor to:. . (x-b) * (x+b) = 0. . therefore both b and negative b are solutions. that is if x = b or x = -b the equation is valid

@@ -1,0 +1,1 @@
+i think the other answer is wrong.  The series converges on 2.  I don't know how you'd get an output

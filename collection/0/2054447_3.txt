@@ -1,0 +1,1 @@
+angular velocity is the rate of angular displacement. omega=theta/t. it changes at every point

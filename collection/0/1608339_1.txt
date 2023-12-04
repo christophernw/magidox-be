@@ -1,0 +1,1 @@
+In short, the Gauss-Jordan reduction transform a matrix into its reduced row echelon (RRE) form, while a Gaussian elimination transforms it to its row echelon (RE) form.. . To obtain the RRE, the matrix often has to be augmented before performing any operation.

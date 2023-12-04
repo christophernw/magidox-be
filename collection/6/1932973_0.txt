@@ -1,0 +1,1 @@
+If your trying to access them from your psp type:. file:/psp/common/nameofwhatever.swf or .gif or .jpg. name of whatever wihout spaces. depends on the format

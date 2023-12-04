@@ -1,0 +1,1 @@
+The way to make sure they're in order is to sort them in the order you want before copying them over. You might also want to check out if your player supports playlists. This will mean your albums and mixes will be sorted first time, every time.

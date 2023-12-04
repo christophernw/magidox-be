@@ -1,0 +1,1 @@
+An infrared LED is a light emitting diode that emits light in the infrared portion of the spectrum.  Infrared LEDs are commonly used in remote controls.

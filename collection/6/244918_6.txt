@@ -1,0 +1,1 @@
+The way we use to do it was to make your first call, then hang up quickly till you hear another dial tone, then dial the second number.  Then hang up quuickly again until you're back to the first person.

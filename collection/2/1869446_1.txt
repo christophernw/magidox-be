@@ -1,0 +1,1 @@
+Just let the units tell you what to do.  H=mass* T*sp heat.  with T in K

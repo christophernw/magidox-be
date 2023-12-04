@@ -1,0 +1,1 @@
+Their slopes are both -5, so they are parallel. They're also equidistant from the origin (0,0).

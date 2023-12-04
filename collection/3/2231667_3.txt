@@ -1,0 +1,1 @@
+Customer Service do not differentiate based on Inboun or Outbound. However, SLAs may be different for Internal Customer and External Customer.

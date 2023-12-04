@@ -1,0 +1,1 @@
+Think of an atom.  The atom has a core, or nucleus, which is surrounded by particles.  A proton is positively charged, an electronic is negative.  The periodic table should tell you the weight of the smallest atom of that element, plus exactly how many protons and electrons it has.

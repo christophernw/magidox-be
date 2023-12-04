@@ -1,0 +1,1 @@
+To convert kilometres to miles divide by 1.6. So 310kmh would be 193.75miles.

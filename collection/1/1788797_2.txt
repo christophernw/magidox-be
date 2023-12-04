@@ -1,0 +1,1 @@
+It is an alternative souce power. The  "+" alternate with "-" in the speed of your network freqvency (in Europe in 50 HZ so the current alternate 50 times in a seccond).

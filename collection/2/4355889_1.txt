@@ -1,0 +1,1 @@
+Loci is the plural of locus.It is defined as a path traversed by a point from a line or a point equidistant from a line or a point.For example the locus of a point equidistant from a straight line is a parellel line of given distance,and the locus of a point equidistant from a point is the cicumference of a circle of given distance.

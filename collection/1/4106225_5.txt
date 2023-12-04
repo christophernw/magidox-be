@@ -1,0 +1,1 @@
+it is the most important no. but it doesnt have any value when it is alone. when it is placed left to a no it has no value. but when it is in right its value increases by 10 times with every zero

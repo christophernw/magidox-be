@@ -1,0 +1,1 @@
+To check if a number is divisible by 36, use the divisibility rules for both 4 and 9.  If a number is divisible by both 4 and 9, it must be divisible by 36.. . If you need to know the rules for 4 and 9 (or other numbers up to 13, as well as methods for larger numbers), visit the source site.

@@ -1,0 +1,1 @@
+"M" stands for memory. It stores the number on the display in it's memory to be recalled for later use. "M+" is the positive value of the number while "M-" is the negative value.

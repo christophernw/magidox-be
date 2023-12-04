@@ -1,0 +1,1 @@
+X intercepts are ( -3,0) and (8,0). . Y intercept is (0,24). . You can get these by substituting y = 0 and x = 0 respectively in the equation and solving them.. . The resultant figure is a parabola.

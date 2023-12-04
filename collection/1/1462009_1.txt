@@ -1,0 +1,1 @@
+pulse width. . Time interval between the leading edge and trailing edge of a pulse at a point where the amplitude is 50% of the peak value.

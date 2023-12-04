@@ -1,0 +1,1 @@
+Extapolation is nothing but predicting the values of the variable outside the range of given set of the data. So in you are given the data . 1     2     3     4. 1     4     9     16. Then by extapolating you cud find the number corresponding to 7 is 49.

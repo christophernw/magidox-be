@@ -1,0 +1,1 @@
+btw, you only need to keep magnetic disks away from magnets and only strong-ish magnets.  A reasonably strong refrigerator magnet could probably wipe out a floppy drive (do you even have one of those?) but not a hard drive.. . And the other disks - CD, DVD - it doesn't matter.  They don't generally rely on magnetic materials.

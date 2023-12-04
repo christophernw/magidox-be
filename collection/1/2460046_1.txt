@@ -1,0 +1,1 @@
+To write any equation in "function form", just solve for y (get y by itself on one side of the =), and replace y with f(x).. . I'll let you do that.  :)

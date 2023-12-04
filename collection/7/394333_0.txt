@@ -1,0 +1,1 @@
+It's version 14 of an MPEG type of file. It's used for either digital audio or digital video. Specificalle, m4a is Apple's equivalent of the mp4 audio and video filetype. You should be able to open the file using a program like Quicktime or iTunes.

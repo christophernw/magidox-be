@@ -1,0 +1,1 @@
+Jonathan Bradshaw points out that standard atmospheric pressure is defined to be P= 0.101325 MPa (This is a human-defined value, which is approximately the average pressure at sea level.) Curiously, if you take the square root of this number and then divide 1 by the result (the reciprocal of the value), you get 3.14153.

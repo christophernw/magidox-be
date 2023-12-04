@@ -1,0 +1,1 @@
+Catalase breaks down hydrogen peroxide into oxygen and water (2 H2O2 → 2 H2O + O2). Hydrogen peroxide interacts with His74 and Asn174 on the enzyme.

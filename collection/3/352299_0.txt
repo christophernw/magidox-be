@@ -1,0 +1,1 @@
+It is already factored, you can write it more concisely as (x-y)^2.. . The EXPANDED form is x^2-2xy+y^2.

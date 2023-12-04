@@ -1,0 +1,1 @@
+It's spelled "pi" and it's used in trigonometry because it's how you measure a circle in radians. Radians is a better way to measure angles - pi is equivalent to 180 degrees, and 2pi is equivalent to 360 degrees.

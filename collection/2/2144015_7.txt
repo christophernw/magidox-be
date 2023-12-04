@@ -1,0 +1,1 @@
+"For a line with. equation  Ax + By + C = 0  and a point (r,s) the distance from the point to. the line is given by abs(Ar + Bs + C)/sqrt(A^2 + B^2).  Here abs denotes. absolute value and sqrt denotes square root."

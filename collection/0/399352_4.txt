@@ -1,0 +1,1 @@
+The thing that causes a voltage drop is the internal resistance of a battery. I don't know of an abbreviated version of this, but it's definitely what causes a battery to read a lower voltage than the rating.. . I hope this helps!

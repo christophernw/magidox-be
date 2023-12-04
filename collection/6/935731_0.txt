@@ -1,0 +1,1 @@
+alarm is an electrical item which needs electricity to flow through to support it's functioning. 4-20mili ampere is a very little current which it's resistor can handel thus the design has been made like that

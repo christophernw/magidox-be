@@ -1,0 +1,1 @@
+By keeping record of meds and warn patients when meds interact badly and/or warn the doctor who issued it to come up with an alternative for the patient that may or may not require a new visit to the doctors. Maybe some could be solved right there in the pharmacy with an new electonic precription issued.

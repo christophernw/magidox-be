@@ -1,0 +1,1 @@
+sqrt(-16) = sqrt(16) * sqrt(-1) . sqrt(16) = 4. sqrt(-1) = i, by definition. therefore,. sqrt(-16) = 4*i = 4i

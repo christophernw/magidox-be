@@ -1,0 +1,1 @@
+That's the definition of equipotential lines, basically.. . If you move perpendicular to the electric field, you do no work (so potential doesn't change).

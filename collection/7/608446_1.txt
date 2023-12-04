@@ -1,0 +1,1 @@
+select save, then put the documents folder as the destination. You may have to do this for each email, depending upon your client software

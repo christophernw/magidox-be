@@ -1,0 +1,1 @@
+The first letter of the name (English or Latin) is paired with another letter occuring in the same name such that the pair formed is unique. If the first letter itself is unique, it is not paired.

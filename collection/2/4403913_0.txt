@@ -1,0 +1,1 @@
+It is a "good" approximation of pi.  At least to two decimal places, anyway.. pi is approx 3.14159265358979. 22/7 is approx 3.142857

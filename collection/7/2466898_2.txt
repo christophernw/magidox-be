@@ -1,0 +1,1 @@
+all you need to wire an led is first, and LED, 3V, and wire a 300OHM resistor in SERIES with a 12V source.. . If you want to run multiple LED's each one will have to have its own resistor wire in series. with all of the LEDs wire in paraelle to the 12V source

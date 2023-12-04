@@ -1,0 +1,1 @@
+open the itunes program and make sure nano is connected, click on ipod on the list at the left of the itunes screen. right click song in list and clear or delete.

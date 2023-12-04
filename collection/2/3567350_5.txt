@@ -1,0 +1,1 @@
+You have to find an area.  If ou have one foot by one foot, it is one square foot.  If the area is circular, find the area of the circle.

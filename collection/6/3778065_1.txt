@@ -1,0 +1,1 @@
+These are data files for a program like quickbooks, or another program. There is a chance you might be able to open the file in Excel.

@@ -1,0 +1,1 @@
+add a comma and three zeros to the right of the last zero in 1,000.

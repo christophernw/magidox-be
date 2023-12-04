@@ -1,0 +1,1 @@
+cell type  = is a distinct morphological or functional form of cell. When a cell switches state from one cell type to another, it undergoes

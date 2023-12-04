@@ -1,0 +1,1 @@
+When your iPod is connected, go to Edit-Prefereces, and click on the iPod tab. There should be a subtab in the iPod tab labeled Photos. Click on it, then browse your computer for the location where the photos you want on your iPod are stored.

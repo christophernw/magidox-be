@@ -1,0 +1,1 @@
+Divx is a file format commonly used for video files. The divx player is a program for playing video files (divx and otherwise) with. It's an excellent player and I highly recommend it.

@@ -1,0 +1,1 @@
+perimeter is the distance along the outer edge of a figure and area is the space inside of the figure.

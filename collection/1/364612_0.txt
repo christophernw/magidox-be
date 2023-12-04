@@ -1,0 +1,1 @@
+If you want it simple, it means that you transform the problem in set of numbers and letters. For example, Peter eats 3 apples, 4 eggs and 5 oranges every day. How many apples, eggs, and oranges, he will eat in one week. In one month?. Then, you translate it into an algebraic sentence:. 3 a + 4 e + 5 o = X. . one week:  W= 7X. One month: M= 30X. I hope it helps.

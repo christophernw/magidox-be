@@ -1,0 +1,1 @@
+A book can be published in both hardcover and paperback. Paperback is the softcover version than bends easily, whereas hardcover is a thick carboard that doesn't bend.

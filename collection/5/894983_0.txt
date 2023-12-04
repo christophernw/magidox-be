@@ -1,0 +1,1 @@
+It depends on the other email service.  If it has a forwarding service, set that up to send to your yahoo email address.  If it doesn't but it works through a POP server system, you can have Yahoo mail retrieve the mail for you.  For that, login to your Yahoo mail account and choose options, then follow the prompts for retrieving external email.

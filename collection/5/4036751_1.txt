@@ -1,0 +1,1 @@
+This is the Doppler Effect.  For sounds, when the source is moving, as you describe, relative to the observer, the wave length of the sound is shortened when the source gets closer and lengthens when it moves away, changing the pitch.

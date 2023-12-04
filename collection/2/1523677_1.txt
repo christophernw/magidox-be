@@ -1,0 +1,1 @@
+Several possible ways..... For older TVs. RF connection (Coax) - most DVD players do not have this. Composite video (single RCA connector). S-Video (small DIN plug). . Newer TVs. Component video (3 RCA connectors). HDMI (digital). Firewire (IEEE1394 digital)

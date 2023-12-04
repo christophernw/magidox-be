@@ -1,0 +1,1 @@
+if your using internet explorer, click tools-internet options-select general- click clear history. if your using mozilla firefox -tools-options- go to privacy- clear browsing history

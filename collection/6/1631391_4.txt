@@ -1,0 +1,1 @@
+Stands for Global positioning system, using a leo constellation of satellites to track something like car, person, or anything.

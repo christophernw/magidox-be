@@ -1,0 +1,1 @@
+it can either increase the speed of the fall by reducing the air resistance or decrease it by creating more air resistance. think parachute and missle.

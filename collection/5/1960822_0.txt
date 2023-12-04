@@ -1,0 +1,1 @@
+The reference voltage for the Electronic Coolant Temperature (ECT) sensor is 5 volts. The Voltage at the sensor for the gauge on the dash is also 5 volts. This applies to all engines in that year model. I assume you have a 5.7 or 7.4 Gas, or 6.5 Diesel.

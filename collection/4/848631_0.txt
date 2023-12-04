@@ -1,0 +1,1 @@
+Its where you have a centralised server and all the information comes from there. EG: All the sales information from each of your stores is kept on one server in a centralised database.

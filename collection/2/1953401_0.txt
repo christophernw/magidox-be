@@ -1,0 +1,1 @@
+Any numeral to the left of a decimal point, including zero and negative such numerals.

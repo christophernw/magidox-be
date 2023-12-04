@@ -1,0 +1,1 @@
+Fit the plan to the three coordinate points. You will always find a plane that goes through a maximum of 3 points. You may not be so lucky with 4 or more points.

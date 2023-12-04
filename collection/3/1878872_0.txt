@@ -1,0 +1,1 @@
+It is a method of finding data that fits certain criteria.  For example, you could query a database of insurance details for policies ending within the next 30 days (weird example, but its one I wrote earlier so it is in my head ;))

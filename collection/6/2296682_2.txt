@@ -1,0 +1,1 @@
+Lift is developed by airflow over the wings.  Longer surface on top of wing causes air to "thin out" going over it resulting in greater pressure on bottom of wing generating lift.

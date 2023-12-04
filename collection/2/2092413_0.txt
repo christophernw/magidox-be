@@ -1,0 +1,1 @@
+A memory storage device. Takes in an input D and a clock, and outputs Q. When the clock transitions from 0V to 5V, the output Q gets the current value of the input D (which will be either 0V, representing a 0, or 5V representing a 1). The value of Q will then be remembered until the next rising edge of the clock (a transition from 0V to 5V).

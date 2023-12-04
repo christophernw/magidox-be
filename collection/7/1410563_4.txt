@@ -1,0 +1,1 @@
+If you are solving for t and if the problem is supposed to be.  0=16*(t^2)+80t, then t = 0 and/or -5. If the problem is supposed to be 0=(16t)^2+80t, then t = 0 and/or -5/16. To solve the problem, you just factor out a t, which implies that t is equal to zero, then set the rest of it equal to zero and solve for t.

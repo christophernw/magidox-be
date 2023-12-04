@@ -1,0 +1,1 @@
+You can't, the motor will be slower at a lower frequency and not perform its prescibed duty.

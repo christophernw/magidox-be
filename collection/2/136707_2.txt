@@ -1,0 +1,1 @@
+Pythagorean Theorem: a^2 + b^2 = c^2 where c = hypotenuse and a and b are the sides in a right triangle.. . So:. . 12^2 + 20^2 = c^2. 144 + 400 = c^2. c^2 = 544. c = sqrt(544) = 23.324. . Hope this helps!

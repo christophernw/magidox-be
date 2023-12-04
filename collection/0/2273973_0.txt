@@ -1,0 +1,1 @@
+I'm guessing that as users move their questions from opened to resolved or undecided that the page numbers shift dynamically rather than staying static.. . This particular functionality is annoying to me.

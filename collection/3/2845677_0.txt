@@ -1,0 +1,1 @@
+Download the daily quotes from Yahoo! Finance, get the sample standard deviation from Excel and go for it.. . Just a note, as stock returns are Cauchy distributed, the standard deviation is always infinite and the mean is undefined.  The calculation will not provide any information that is valid.

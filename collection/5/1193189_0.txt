@@ -1,0 +1,1 @@
+So easy, resistance is the electron flow opposition in electronic circuit, impedance depend of the frequency of operation of a circuit. in continuous DC circuit you not see impedance, in a DC pulse circuit the story is different.. think in a lighthing storm, pulse of electric current, the discharge circuit, ground, is an impedance.

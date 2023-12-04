@@ -1,0 +1,1 @@
+A transistor will allow current flow through various paths, while a diode will allow it in one direction only depending how it is byassed.

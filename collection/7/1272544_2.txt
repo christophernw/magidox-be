@@ -1,0 +1,1 @@
+Month/Day/Year. . Month : 2 digits  01 to 12. Day: 2 digits 01 to 31(or 30, 28,29) based on the month. Year: 4 digits : 1973, 2005

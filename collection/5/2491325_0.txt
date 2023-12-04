@@ -1,0 +1,1 @@
+All fluids are viscous.  Some are more so than others, and that has to do with how the fluid interacts with itself on a molecular level.

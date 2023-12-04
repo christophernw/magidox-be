@@ -1,0 +1,1 @@
+you can get x lower, because it can be all real numbers.  However, your answer is correct, because if you put a negative number in for x, you get a positive answer.  So the range is y is greater than or equal to -3.

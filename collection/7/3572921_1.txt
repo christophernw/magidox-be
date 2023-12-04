@@ -1,0 +1,1 @@
+From within a frame of reference ( http://en.wikipedia.org/wiki/Frame_of_reference ), we can't detect the constant motion of the frame of reference itself. You can have a look at http://www.phy.ntnu.edu.tw/ntnujava/viewtopic.php?t=227 which illustrates this.

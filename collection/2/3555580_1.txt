@@ -1,0 +1,1 @@
+The definition of a rhumb line is a line crossing all meridians at the same angle.. . By this definition, the equator would be a rhumb line as it crosses all the meridians at a 90 degree angle.  A meridian would not be a rhumb line as it does not cross any other meridians.

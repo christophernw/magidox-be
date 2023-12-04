@@ -1,0 +1,1 @@
+Speed of sound changes with temperature and humidity:. Here is a formula for finding out the approximate speed of sound in air:. cair = (331.5 + 0.6theta)m/s. . cair = speed of sound in air. theta = Temperature of air in Celcius. . Remember BEDMAS!

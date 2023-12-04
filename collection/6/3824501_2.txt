@@ -1,0 +1,1 @@
+To meter a precise amount of fuel into the throttle body dependent on throttle position and to keep the engine idling at the proper speed.

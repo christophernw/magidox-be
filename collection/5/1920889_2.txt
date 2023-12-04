@@ -1,0 +1,1 @@
+It doesn't help that the spell check doesn't operate on some parts, e.g. the "details" part of the question.

@@ -1,0 +1,1 @@
+Cell lines are produced when you take cells from an organism, propagate it and maintain them in an environment that mimics their natural state. A monolayer is a single layer of cell that cover a culture dish.

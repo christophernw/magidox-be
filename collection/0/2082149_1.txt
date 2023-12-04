@@ -1,0 +1,1 @@
+Ground and earth are refered to same which is having 0V.  Neutral is the common point which is taken from the neutral point of the 3 phase transformer (from "Y or Wye" connection) and in the most cases it will be connected to the earth or ground.  Apparantly we expect ground, earth and neutral are same which are connected to common reference point with no potential difference.

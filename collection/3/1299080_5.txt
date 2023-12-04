@@ -1,0 +1,1 @@
+this > means greater than a number... and this < means less than a number

@@ -1,0 +1,1 @@
+You need an adapter that has gears in it to simulate a tape being played. It's sensing the "take-up real" not moving so it assumes the tape is done and flips.

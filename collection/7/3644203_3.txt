@@ -1,0 +1,1 @@
+This is the equation of a Staright line.. in a sence this is a liner equation... 4x-3y=6. or, x=(6+3y)/4   ..... (1). so x is a function of y.... for every value of y there exist a value of x... you do the the calculation

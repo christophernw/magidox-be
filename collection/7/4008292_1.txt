@@ -1,0 +1,1 @@
+For example: if you have a coupon for Pizza Hut that lets you get 1 large pizza free with the purchase of breadsticks or something and it is only at participating franchises, and your local Pizza Hut is not participating in that particular promotion, then the coupon is considered null and void, in other words, it's no good, they won't accept it. It's a little bit redundant.

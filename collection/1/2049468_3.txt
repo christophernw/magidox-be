@@ -1,0 +1,1 @@
+If you install five lightbulbs in a series circuit and one bulb get busted,all four remaining bulbs will not lit up. In parallel circuit,if one get busted,the four remaining will still lit up.

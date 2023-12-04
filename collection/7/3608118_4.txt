@@ -1,0 +1,1 @@
+Rules for the multiplication of integers:. . 1.       The product of two integers with the same sign is positive. . Examples:. .  . . a.  2 (3) = 6                                        b.  –2 (-3) = 6. .  . .  . . 2.     The product of two integers with different signs is negative. . Examples:. .  . . a.  –2 (3) = -6                                     b.  4 (-5) = -20

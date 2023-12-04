@@ -1,0 +1,1 @@
+From the point where your 52 degree angle is going to be, measure 1-9/16" over and 2" up.  The angle nearest your 1-9/16 measurement will be pretty close to 52 degrees (actually about 52.00126756, but in making jigs and other shop fixtures, I think 1-9/16" over and 2" up are pretty close).

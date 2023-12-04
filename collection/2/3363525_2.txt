@@ -1,0 +1,1 @@
+pH is a function of temperature.  The equilibrium which generates H+ from H2O only has a value of 1 x 10^-14 at 25 C.. . In addition, to get an accurate reading, you need to use a pH probe that has an automatic temperature correction.

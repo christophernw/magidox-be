@@ -1,0 +1,1 @@
+Entropy is a measure of randomness and disorder in a system. As order incresaes within a system the amount of entropy increases outside of the system(in the universe).

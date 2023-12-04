@@ -1,0 +1,1 @@
+it should tell you if you click on the job.  Usually you have to have a certain amount of skill points and a certain amount of friends.

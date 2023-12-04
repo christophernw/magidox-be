@@ -1,0 +1,1 @@
+Elevation: 254 meters (835 feet) -- validated against 260 meters (852 feet) from NED Contiguous U. S. 1/3E arc second elevation data. Location: Winston-Salem, NC US

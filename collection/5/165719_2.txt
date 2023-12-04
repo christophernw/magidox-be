@@ -1,0 +1,1 @@
+a flash can be taken out but has less memory while a hard-disk can not be removed but has more memory

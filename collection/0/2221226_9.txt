@@ -1,0 +1,1 @@
+The formula to calculate circumference of a cirle is :. .    2 * pi * radius  or pi * diameter. . value of pi = 22/7 or 3.14

@@ -1,0 +1,1 @@
+Area is the amount of paper it would take to make the shape (not exactly the two sides multiplied together, but it is for a rectangle).. . Perimeter is the amount of string it would take to outline the shape.

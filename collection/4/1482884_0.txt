@@ -1,0 +1,1 @@
+7 ..which is the difference over the actual number which is 0 divided by 100..    seems like the answer is 700% but it doesn't look right to me.

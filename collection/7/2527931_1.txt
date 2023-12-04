@@ -1,0 +1,1 @@
+A ferromagnetic material like iron would concentrate the flux lines but wouldn't prevent all from penetrating.  The only impenetrable barrier is a superconductor.  And then, only as long as the magnetic field wasn't so strong as to quench superconductivity.

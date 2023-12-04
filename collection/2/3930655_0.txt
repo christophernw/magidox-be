@@ -1,0 +1,1 @@
+what do you mean? it lights up all the time, or never? normal opreation is when the key is in the on position, engine off, the light should come on, then go off when the car is started. there is a problem if the light goes on while driving, and the computer will store a trouble code to aid in diagnosing it.

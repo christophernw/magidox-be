@@ -1,0 +1,1 @@
+Well, nx1=n, and we expect nx0 to be n less than this. In other words, nx0=0.

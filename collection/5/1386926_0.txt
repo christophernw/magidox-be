@@ -1,0 +1,1 @@
+Take out the first card which is the one you need to match. You don't care which suit it is since you want to match it regardless.. . Now you are ready to take out one more card. There are now 12 more cards of that same suit left in the deck and 51 cards left in the deck. That makes it 12 chances out of 51 for a match. If you take out one of those 12 you have the match.

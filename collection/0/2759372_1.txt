@@ -1,0 +1,1 @@
+It bounces off the sides of the fiber because of the phenomenon of "total internal reflection".  Optical fibers are constructed so that the refractive index of the core of the fiber is higher than that of material at the outer radius (or of the cladding material).

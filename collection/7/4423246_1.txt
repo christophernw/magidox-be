@@ -1,0 +1,1 @@
+With your word document open go into File, Page Setup and on the Margins tab set the Top, Bottom, Left and Right margins to your specified size then click OK.

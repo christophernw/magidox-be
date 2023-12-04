@@ -1,0 +1,1 @@
+Radar, originally an acronym, refers a system that uses radio waves to detect, determine the distance of, and map, objects such as aircraft, ships, and rain. See http://en.wikipedia.org/wiki/Radar and  http://electronics.howstuffworks.com/radar.htm for more info.

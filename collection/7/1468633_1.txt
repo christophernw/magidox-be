@@ -1,0 +1,1 @@
+It it doesn't form AC waves.  They usually use PWM (pulse width modulation).. . http://en.wikipedia.org/wiki/Pulse-width_modulation

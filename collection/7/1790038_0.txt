@@ -1,0 +1,1 @@
++ A boat is a submarine. A ship is all other vessels onto which a boat can fit and be launched from.

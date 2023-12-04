@@ -1,0 +1,1 @@
+well if the bluetooth is working on the laptop then go into your settings for bluetooth on your phone it should be under connections then select bluetooth then under setup select find me then on your laptop there should be an option for look for devices then it should find it as long as your phone is in discovery mode. hope this helps

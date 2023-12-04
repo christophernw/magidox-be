@@ -1,0 +1,1 @@
+If watches stopped everytime someone dies then the watch would never work.  Someone dies like every 5 seconds or something like that

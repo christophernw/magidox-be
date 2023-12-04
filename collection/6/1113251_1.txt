@@ -1,0 +1,1 @@
+what you need is a 5 prong relay. you need to hook up a power source to the relay then to the flasher. also a power feed from your switch to the relay and a ground. in person i can do better.

@@ -1,0 +1,1 @@
+The perimeter of an object is long around the object. (P=length + lenght + width + width) The area is the space inside of the (2-dimensional) object (Area= l x w)

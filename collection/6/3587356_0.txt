@@ -1,0 +1,1 @@
+If the person is on shore duty it is most likelyf firstname.lastname @navy.mil (ie. bob.smith@navy.mil).  If on sea duty probably lastnamefirst initial@ship'sname.navy.mil (ie. smithb@preble.navy.mil)

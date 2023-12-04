@@ -1,0 +1,1 @@
+as heat is V*I*T and V=IR. THEREFORE. . heat produced is I^2*R*T

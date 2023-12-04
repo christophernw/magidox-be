@@ -1,0 +1,1 @@
+It is possible, however, you need some high priced equipment to do it. Pelco has a matrix switcher that will transfer ntsc tape to pal tapes using two video players (ntsc input, matrix, to the Pal recorder) These run about 5000 for what you want to do.

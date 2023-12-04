@@ -1,0 +1,1 @@
+By definition.  Since x times 1 is x for any x, if we wrote the prime factorization for any number we would have to include 1 each time as a prime factor!

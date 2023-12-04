@@ -1,0 +1,1 @@
+The electric field lines cannot pass through a conductor because conducts have a lot of free electrons which automatically reconfigure themselves to cancel out any electric field. . . Insulators can somewhat try to cancel out an electric field but they dont have free electrons which can reconfigure themselves.

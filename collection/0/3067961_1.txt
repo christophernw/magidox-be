@@ -1,0 +1,1 @@
+Although Excel may not come with all the matrix functions you desire, you could make your own one with VisualBasic that comes with it. What I find particularly useful is the A(m,n) array (with Dim command) and the For-Next sequence. You will find yourself desolate without For-Next.. . Note that a 2-dimensional array is tantamount to a matrix.

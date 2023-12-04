@@ -1,0 +1,1 @@
+I'ts easy to crosntruct a covariance matrix:. Let X be your data set.. then make y=X-M where M is the vector of means.. Then the covariance matrix is given by C=1/n(y'y). where n is the number of observations

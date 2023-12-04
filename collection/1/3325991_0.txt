@@ -1,0 +1,1 @@
+The definition of prime numbers is that: a number that has only two possitive divissors: itself and 1.. So if you want to divide a prime number, you will get 1 (if you divide by the number itself) the number itself if you divide by 1, a rational number (a fraction) if you divide by any natural number.

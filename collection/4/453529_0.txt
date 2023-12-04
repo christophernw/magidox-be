@@ -1,0 +1,1 @@
+I'll interpret this as f(x,y)=x^3 y/(x^2 + y^2). I would rewrite it as f(x,y)=xy [x^2/(x^2 +y^2)]. As (x,y)->(0,0), the first term goes to 0 (clearly), while the second term is bounded (by 1), so the limit is 0.

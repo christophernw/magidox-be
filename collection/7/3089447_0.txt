@@ -1,0 +1,1 @@
+MP3 is an audio format only, and the name "MP3" has incorrectly come to mean a digital music player. It was invented in late 1980s. MP4 is a "container" which means it can be a video file, or an audio file. The songs sold on Apple's iTunes Music Store are in AAC format.

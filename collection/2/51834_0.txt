@@ -1,0 +1,1 @@
+If the wind is calm, then there is no wind direction.. . Usually, the wind speed is not zero for a whole day.  Then the weather man will tell you which wind direction it will be when the wind is actually blowing.

@@ -1,0 +1,1 @@
+hey the eq says 2x> x/2 + 45. so get x/2+45's lcd. so that's 2. x+90/2. so 2x>x+90 all over 2. then cross multiply 2. so it 'll become 4x> x + 90. transpose x. then 3x>90 didvide both sides by 3 so. x> 30 that is the answer

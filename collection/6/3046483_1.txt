@@ -1,0 +1,1 @@
+"Camber" is the curve of a top surface.  Roads have a camber so that water runs to the side.  Wings have a camber so that air travelling over the top surface has farther to go than air travelling across the bottom surface.  Since this makes the air above the airfoil at a lower pressure, it creates lift.

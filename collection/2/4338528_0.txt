@@ -1,0 +1,1 @@
+P1128 - Bank 1 adaptive mixture too lean. Short and sweet, your not getting enough fuel to bank 1 or you are getting too much air(vacuum leak). Bank 1 is the bank that has #1 cylinder on it. If it is a 4cyl there is only 1 bank

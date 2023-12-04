@@ -1,0 +1,1 @@
+A=1690 P=1000 t=2 years then you have to solve for r (which is the rate at which the interest is added) isolate r and then it should be simple enough to solve.. we just did this in algebra 2 so i hope that i was helpful!

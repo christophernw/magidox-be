@@ -1,0 +1,1 @@
+each loaf of bread is made and sold with a $.80 profit because $.20 are spent to make the bread and $1 is made in exchange so ( -$.20 + $1 = $.80 ) or ( $1 - $.20 = $.80 ). so to find out how many loaves it would take to break even you divide the cost of the oven by the amount of money made by each loaf so ( $500 / $.80 = 625 loaves )

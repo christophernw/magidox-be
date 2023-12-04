@@ -1,0 +1,1 @@
+Preloading is a term used in Flash (SWF) files to "preload" the content in order for it to run properly.. . Graphics-heavy websites that use Flash require a preloader in order to download all the graphics/sound/video it needs.

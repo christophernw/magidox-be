@@ -1,0 +1,1 @@
+Further to Bruce's answer, channels for ions are very necessary since the membrane is itself a polar structure (internal and external charge different). So moving ions across a membrane requires a structure and mechanism to overcome the 'like charges repel' problem.

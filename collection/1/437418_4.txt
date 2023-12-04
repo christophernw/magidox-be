@@ -1,0 +1,1 @@
+To find a circumference of a circle is pi = 22/7 or decimalised as 3.14 x radius squared.

@@ -1,0 +1,1 @@
+Any hose going to the distributer would come from a vacuum switch normally. If you were to check it before hooking up the distributer, you should see no vacuum at idle, as you give it gas, you will see the vacuum increase. This should be done with the engine at operating temprature. Look under your hood, for the vacuum routing diagram.

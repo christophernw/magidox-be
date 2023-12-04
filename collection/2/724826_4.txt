@@ -1,0 +1,1 @@
+BMI is much less accurate than the pinch test. Much more room for error in it because it has trouble distinguishing bone density, muscle mass, and fat sometimes.

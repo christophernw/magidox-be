@@ -1,0 +1,1 @@
+Descartes' Rules of Signs is used to find the number of positive and negative REAL zeroes only.  Thus, however many roots are left after the real roots must be imaginary.  By the way, imaginary roots come in conjugate pairs, therefore you will always have an even number of imaginary roots.

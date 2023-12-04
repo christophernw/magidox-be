@@ -1,0 +1,1 @@
+Don't know the mirror method, but can you fit a curve to the data and then find the formula derivative?

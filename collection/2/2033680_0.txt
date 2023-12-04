@@ -1,0 +1,1 @@
+I think weather "maps" are derived from balloon data. they are released into the air and report wind, pressure and moisture at various altitudes. Meteorologists use them to determine the stability of the atmosphere.

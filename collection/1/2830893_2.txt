@@ -1,0 +1,1 @@
+I can testify that it wont kill you, but it does burn like a SOB, fairly high freq and all. Question user, why do you want to measure your high voltage? In most of TVs these days, if the B+ (usually 130V) is regulating properly, then the HV is correct. Mostly all I ever do is clip a wire from ground to a flatblade screwdriver to discharge the HV, if I need to replace a flyback.

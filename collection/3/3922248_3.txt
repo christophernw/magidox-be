@@ -1,0 +1,1 @@
+Negative numbers can not have square roots.

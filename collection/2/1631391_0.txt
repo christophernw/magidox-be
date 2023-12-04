@@ -1,0 +1,1 @@
+Global Positioning System. A radio navigational system that was developed by the US. Department of Defense involving satellites and computers that can determine the latitude and longitude of a receiver on Earth by computing the time difference for signals from different satellites to reach the receiver.. . In simple it will locate u and tell u where u are..

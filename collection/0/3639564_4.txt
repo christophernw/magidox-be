@@ -1,0 +1,1 @@
+Just having a magnitude and direction is not a sufficient enough condition to be a vector, other vector properties must be satisfied, current however just satisfies the direction and magnitude part.. . The 'J' vector is current density.

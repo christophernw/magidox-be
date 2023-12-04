@@ -1,0 +1,1 @@
+Fuse is a safety device to shut-off electricity (or more specifically, current) in the loop when excessive load is detected. All fuses have amperage ratings to specify how much current they can handle before they shut-off.

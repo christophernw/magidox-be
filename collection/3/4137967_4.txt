@@ -1,0 +1,1 @@
+ballpark figure: ruff estimate on a number. comes from the fact that there is no really accurate way of of calculating a number unless you are there and can see the numbers. like a ballpark, you cannot say how big is the seating unless you have an accurate count.

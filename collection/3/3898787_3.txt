@@ -1,0 +1,1 @@
+It is a book that has the diagnosis codes.  Every diagnosis known to man has a number.  ICD-9-CM  stands for International Classification of Disease 9th edition, Clinical Modification.

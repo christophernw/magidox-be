@@ -1,0 +1,1 @@
+Depends.. . It's got an electric fan. If you've shut it down hot, it will likely run for a little bit, until the engine is cool -- but it will eventually turn off.. . If, however, it runs all the time, then either the temperature sensor that activates and deactivates the fan is faulty, or the relay that engages and disengages the fan is faulty.

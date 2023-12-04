@@ -1,0 +1,1 @@
+Inertia. . When you are on the ground you are moving at the same speed as the earth.. . When you jump you are adding a small vertical component to your velocity, but the horizontal component is unchanged.

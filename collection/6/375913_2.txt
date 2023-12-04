@@ -1,0 +1,1 @@
+Depends on whether the gas goes through the liquid state intermediately.  If the gas goes directly to a solid, it is sublimation.  If the gas goes through the liquid state intermediately, that change is condensation.  The change from a liquid to a solid is a further condensation. or solidification.

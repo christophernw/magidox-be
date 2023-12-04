@@ -1,0 +1,1 @@
+When you're listening to a CD, the player must physically spin a disc in order to obtain the required data to produce music.  When listening to radio, the player simply intercepts and decodes specific frequencies of the radio waves in the air all around you.  Since there is no physical movement associated with radio, there will be less battery power consumed.

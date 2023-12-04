@@ -1,0 +1,1 @@
+At a 12 volt tap, connect the positive wire to positive, ground the negitive wire. Using heavy gauge wire (#12) with an in-line fuse rated at 10 amps inserted in the positive line. If you are running it for a long distance, you should go to a #10 wire.

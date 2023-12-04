@@ -1,0 +1,1 @@
+In any right triangle, the area of the square whose side is the hypotenuse (the side of the triangle opposite the right angle) is equal to the sum of the areas of the squares on the other two sides.. . a^2 + b^2 = c^2

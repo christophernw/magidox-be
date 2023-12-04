@@ -1,0 +1,1 @@
+Take the line that runs from your modem to your computer. Disconnect it and connect it to your PS2. That line is the ETHERNET line.

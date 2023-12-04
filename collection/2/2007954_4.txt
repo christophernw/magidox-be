@@ -1,0 +1,1 @@
+You cannot, as was stated earlier.  You need to get a motor rated for 240VAC. You do have the option of using a step-down transformer (or step-up as the case may be). Of course, transformers aren't cheap either, so I would definitely recommend getting an expert in to look at the problem and help you find a solution.

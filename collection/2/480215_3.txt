@@ -1,0 +1,1 @@
+the probability will be the number of ways in which we can arrange 3 ball with exactly on green ball divided by the number of ways in which we can arrange 6 ball in 3s. which is 144/720=1/5 so the answer should be none of the above.

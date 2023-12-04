@@ -1,0 +1,1 @@
+When X=0, Y= - 4. When X=2, Y=0. When X=4, Y=4

@@ -1,0 +1,1 @@
+Just as the theory of mechanics assigns precise definitions to such everyday terms as work and force, the theory of probability attempts to quantify the notion of probable. Probability always lies between 0 and 1. If probability is equal to 1 then that event is certain to happen and if the probability is 0 then that event will never occur

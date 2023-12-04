@@ -1,0 +1,1 @@
+Just go buy a router, run the CD that comes with it on your computer.  Then, hook up the ethernet cords to the PS2s. After that, unplug your modem and router for about 30 secs. Plug the modem back in, then the router. Wait until the signal is found and you should be good to go. It's how I fixed mine anyway.

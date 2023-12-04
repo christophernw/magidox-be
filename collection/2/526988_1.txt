@@ -1,0 +1,1 @@
+Generally polyclonal anitbodies are used to bind non-specifically to antigens. For instance, you might use monoclonal antibodies to specifically bind to your protein of intererst. You might then use polyclonal Ab to bind the rest of the proteins i.e. to block off the other available 'slots'

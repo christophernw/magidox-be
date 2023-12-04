@@ -1,0 +1,1 @@
+You're first gonna have to see if your polymer will be able to sustain the temperatures of the plasma discharge that happens during sputtering. If thats ok, your next concern is adhesion. You could probably try a flash of chromium (maybe a few hundreds of angstroms thick layer) and then gold.

@@ -1,0 +1,1 @@
+The slope of any vertical line is undefined so it's so the product of the slope of a vertical line and any other line will be undefined.  The x and y axises are no exception.

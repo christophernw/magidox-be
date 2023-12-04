@@ -1,0 +1,1 @@
+The definition of the volume of an object is just how much space it occupies.. If you're looking for the formula for volume, then . V = Pi(r^2)h, where r is the radius and h is the height.

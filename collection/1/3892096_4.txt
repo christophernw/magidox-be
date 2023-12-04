@@ -1,0 +1,1 @@
+It will shuffle all the songs around and play them. Instead of playing them in order

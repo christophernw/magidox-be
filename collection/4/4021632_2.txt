@@ -1,0 +1,1 @@
+Often in math, people leave out the "x" for multiplication if it is before parentheses.  So, it means 9.658x(10x264).

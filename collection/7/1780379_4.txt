@@ -1,0 +1,1 @@
+Variant amount of light causes a plant to go from a dormant state to a lively state as far as growth is concerned, even death if there's no light for long amounts of time.

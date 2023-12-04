@@ -1,0 +1,1 @@
+The background shouldn't be bright. The blast itself is so bright, that to compensate, the camera darkens the whole thing, so the background appears darker.

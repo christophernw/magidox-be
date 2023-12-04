@@ -1,0 +1,1 @@
+surface area = Pi(r2h). h = surfacearea/(r2Pi). h = x/((3.14)(2)(3 cm)). h = x/6Pi

@@ -1,0 +1,1 @@
+in this case, the cross-product uses the sine of the angle between the two vectors to multiply the product of the magnitudes of the two vectors.   the angle between any vector and itself is zero.. . the sine of zero is zero.. . then, i x i = |i|*|i|*sin(0) = 1*1*0 = 0

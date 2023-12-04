@@ -1,0 +1,1 @@
+Each of these  transistors have their own unique uses. They are chosen for use according to the best operating characteristics of a particular circuit, not by random preference.

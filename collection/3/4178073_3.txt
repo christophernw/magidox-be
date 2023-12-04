@@ -1,0 +1,1 @@
+If the other 2 do not work you could try setting folder options to NOT hide know file tyoes and then "right-click --> rename" and edit the file type ending but i do not recommend this, at least not without creating a backup copy of the file first.

@@ -1,0 +1,1 @@
+SEDOL . Definition. . The Stock Exchange Daily Official List number, a code used by the London Stock Exchange to identify foreign stocks, especially those that aren't actively traded in the U.S. and don't have a CUSIP number.

@@ -1,0 +1,1 @@
+Which model are you talking about, and what is the problem with the Din plug? Some DIN plugs are soldered in while others are just crimped on, others are connected directly to a circuit board. If there are wires coming out of the DIN plug it would be easy to splice a new one in. IF there is any soldering involved you better be good!

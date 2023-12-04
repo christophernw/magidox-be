@@ -1,0 +1,1 @@
+after replicating a strand of DNA during cell division, the matching of the correct base pairs is checked and corrected if any miss-matches have occurred.  It is not 100% efficient and, therefore, mistakes are not caught.  That is the difference between mutant resistant and mutant proof.

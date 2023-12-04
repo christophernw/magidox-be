@@ -1,0 +1,1 @@
+Suppose acceleration on a plane. surface is "a". Acceleration along . an inclined plane at angle z to the . horizontal will be a component along. the inclined plane=a*cosz

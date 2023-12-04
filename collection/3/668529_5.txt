@@ -1,0 +1,1 @@
+x^2 + x. . It's not x cubed because the only way you could add exponents is if you're multiplying x^2 with x.. . Plus, it's not 2x^2 because the x only has a power of 1 while x^2 has a power of 2. They're not like terms.. . To tell you the truth, I don't think there's any solution for this problem except x^2 + x and x(x + 1).

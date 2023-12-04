@@ -1,0 +1,1 @@
+FG sums it up nicely. The equation for gravitational force assumes point masses (which don't actually exist anywhere in the universe). You need to start using integral calculus to describe the force between concentric rings (YUK!!).

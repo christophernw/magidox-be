@@ -1,0 +1,1 @@
+the striker transfers some of its momentum to the coins. if it hits a coin straight (in line with the COM) and if the collision is elastic, the striker should com to a stop and the coin wil aquire its momentum.

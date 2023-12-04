@@ -1,0 +1,1 @@
+Phenol has a pKa around 10 (really 9.9).  As the pH of a solution with phenol goes up, more phenol becomes deprotonated to become phenoxide.  Above pH 10, there will be more phenoxide than phenol.

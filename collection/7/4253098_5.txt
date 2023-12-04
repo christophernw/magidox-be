@@ -1,0 +1,1 @@
+It means you know what the weather was on Monday and you know what it was on Friday, so you just guessed what the weather was on Tuesday, Wednesday and Thursday.   . . Usually you guess that Monday's weather morphed smoothly into Friday's weather through the week.  That's linear interpolation.  It's good enough most of the time but it can miss the odd three-day hurricane.

@@ -1,0 +1,1 @@
+Modulation is used for the reason mctek17 said.  Modulation is the modification of a carrier frequency, the high frequency, by a lower frequency.  The carrier can be modified in three ways, by changing its power (AM), its frequency (FM, FSK), or its phase (PSK, BPSK,...).

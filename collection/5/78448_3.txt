@@ -1,0 +1,1 @@
+mode is the thing in the list that appears the most. so in: 1 1 1 4 2 8 2 5 1. 1 is the mode because it appears 4 times

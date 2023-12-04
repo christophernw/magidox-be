@@ -1,0 +1,1 @@
+The sending unit is in the gas tank.  It moves up and down and is part of a variable resistor.  The resistor will get bad spots on it and as the arm slide up and down it will "find" a bad spot and your guage will stop working.  USUALLY...sometimes the anti-slosh module behind the instrument cluster will go bad, but what your describing sounds like the sending unit.

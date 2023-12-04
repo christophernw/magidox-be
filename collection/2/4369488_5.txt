@@ -1,0 +1,1 @@
+nothing happens.  it has simply reached the maximum speed at which it can fall.. . objects do not continue accelerating until they hit the ground.. . teminal velocity for a feather might be something like 15 mph.  for a bowling ball, it might be 120 mph.

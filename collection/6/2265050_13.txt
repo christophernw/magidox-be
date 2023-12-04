@@ -1,0 +1,1 @@
+Weather is the actual conditions at any given time.  Climate is the weather that occurs over time or the average weather over time.

@@ -1,0 +1,1 @@
+To make it a little easier, you would start by factoring out x^-1.... . you would have x^-6(2+3x^2)^6. . Then.... . x^-6 ( 1 + 6(3x^2) + 6(5)(3x^2)^2/2! +..... . Simplified :. . =x^-6(1 + 18x^2 + 60x^4 + 540x^6 + 1215x^8 + 1458x^10 +729x^12). . = x^-6 + 18x^-4 + 60x^-2 + 540 + 1215x^2 + 1458x^4 + 729x^6. . SO,There is no term with 2/x hence the coefficient is ZERO.

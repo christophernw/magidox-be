@@ -1,0 +1,1 @@
+A boxplot is just a way of squeezing the five-number summary of a set of data into a compact 2-dimensional diagram. See the source for details.

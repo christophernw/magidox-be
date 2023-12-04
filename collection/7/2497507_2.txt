@@ -1,0 +1,1 @@
+Without mole, we cannot calculate the number of molecules a substance has, the pressure of the air and fluids, the Volume, and the Temperature. All of these quantities are in relation to the mole so that they can be computed.

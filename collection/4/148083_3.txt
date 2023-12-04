@@ -1,0 +1,1 @@
+Is the house batteries on 12v or 24volt ? I would bet 12 volt they should be in parallel (pos to pos   and neg to neg ) series would increase the voltage (pos to neg) to 24 volt

@@ -1,0 +1,1 @@
+It's to let you know when there's mail in the box to be picked up.  If the flag is up, you've got mail!  No flag, no mail.

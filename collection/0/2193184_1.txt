@@ -1,0 +1,1 @@
+A pH of 4 has the [H] = 1.0 * 10^-4. A pH of 8 has the [H] = 1.0 * 10^-8. . A begining pH of 4 was 0.0001 molar concentration of the hydronium ion.. The ending pH of 8 had 0.00000008 molar concentraion of the hydronium ion..   The difference is 0.00009999 or 9.999 *10^-5

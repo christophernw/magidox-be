@@ -1,0 +1,1 @@
+Specific gravity of liquid  = Density of liquid at STP /   .                               .                               Density of water at STP. . Specific gravity of gas     = Density of gas at STP.                               /.                               Density of air at STP

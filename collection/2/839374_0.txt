@@ -1,0 +1,1 @@
+round covers won't fall through. if they were square they could easily fall through the opening

@@ -1,0 +1,1 @@
+A speaker with sensitivities above about 90 dB is considered to be a high-sensitivity speaker. Under 89 dB, and it’s considered a low-sensitivity speaker

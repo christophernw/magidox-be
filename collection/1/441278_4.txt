@@ -1,0 +1,1 @@
+press ctrl alt delete and bring up the taskmanager and close all programs that do not need to be running.. all that should be running is systems program for xp-for anything under that explorer should be running with one other program..cant remember what it is tho

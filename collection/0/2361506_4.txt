@@ -1,0 +1,1 @@
+A defined area is a multiple of 2 vectors..hence a vector...otherwise it is Scalar.

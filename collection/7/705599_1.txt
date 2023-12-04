@@ -1,0 +1,1 @@
+Turn the key on to the run postion but not started.  At the motor break the fuel lines loose just a little and bleed the air till you just get fuel.

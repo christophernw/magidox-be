@@ -1,0 +1,1 @@
+like a line output convertor. it takes a high level input from the radio,and gives you a low leveloutput {rca's}

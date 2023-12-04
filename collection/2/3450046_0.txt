@@ -1,0 +1,1 @@
+Use any recursive algorithm.. . For instance:. . f(x) = f(x) + 1

@@ -1,0 +1,1 @@
+Multiply 20 times whatever the percent required.  20 x .06=$1.20. Comprende?

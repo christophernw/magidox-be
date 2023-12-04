@@ -1,0 +1,1 @@
+1. To low-pass filter the signal and prevent positive-feedback oscillation.. . 2. ...or to high-pass filter the signal, and remove the DC component (aka "offset").  Also known as AC coupled.

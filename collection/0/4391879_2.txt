@@ -1,0 +1,1 @@
+You have six equations and six unknowns, which should be sufficient to solve for a -> f. The approach to this problem is to solve for each letter variable in terms of the other 5 variables from one equation and substitute the result in another equation until you have reduced the problem to one equation of all "A"s, for example. Then solve for A.. . Good luck! Hope this helps!

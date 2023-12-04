@@ -1,0 +1,1 @@
+The type of disk. A DVD is written with a thinner laser beam, so it's density is higher. I also supports higher data transfers than a VCD.. . a VCD is nothing but a CD with video in a particular format.

@@ -1,0 +1,1 @@
+words that can be read the same right to left and left to right, like . racecar or dad or mom!

@@ -1,0 +1,1 @@
+It varies linearly with depth.. . p = (Rho)*g*h. . where:p is pressure. (Rho) is density. g is acceleration due to gravity. and h is depth.

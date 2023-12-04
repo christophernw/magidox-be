@@ -1,0 +1,1 @@
+light reflects quicker in that order.. for example, red reflects light faster than orange, orange faster than yellow, and so on.

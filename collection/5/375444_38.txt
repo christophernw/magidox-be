@@ -1,0 +1,1 @@
+Do what's in the () first which is 20 then 20+9-6=23.

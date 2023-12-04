@@ -1,0 +1,1 @@
+5y + 7x = 5 --> y= -7/5x + 1. . you have a line with a negative slope that intersect the x axis in 1 and the y axis in 5/7, so, with a slope ov -7/5

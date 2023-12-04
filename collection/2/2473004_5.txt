@@ -1,0 +1,1 @@
+circumference=pi*diameter, twice the diameter yields twice the circumference. . area=pi*radius^2, twice the diameter means twice the radius, doubling a squared terms gives 4 times the result, emaning the area is multiplied by 4.

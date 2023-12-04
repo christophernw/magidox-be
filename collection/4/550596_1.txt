@@ -1,0 +1,1 @@
+Plating metals can be electrolytic or electroless.  The metal is oxidized from elemental state to charged state. Ie Cu will go to Cu++ in solution and then reduced to Cu on a charged metallized object.  Powder coating uses a powder spray, is then heated to form a layer around the object.

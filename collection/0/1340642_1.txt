@@ -1,0 +1,1 @@
+it means... compare the amounts on the two lines... the one with the smaller number is the number that you would enter. . example.... . Line B $400.00. Line C $ 200.00  . . You would enter the amount on line C since it is the smaller amount.

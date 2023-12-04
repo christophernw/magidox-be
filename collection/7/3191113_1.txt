@@ -1,0 +1,1 @@
+i believe you are talking about Mcafee security suite...did you use windows restore recently??. if so you need to open up Mcafee security centre and MANUALY update it for today, this will reset the active shield components...then reboot your computer.

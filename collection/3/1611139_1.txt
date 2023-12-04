@@ -1,0 +1,1 @@
+the line with the highest number is steepest. a line with a slope of zero is flat.  and a line with slope 3 is as steep as a line of slope -3.  So the largest number, whether it is positive or negative, will have the steepest slope

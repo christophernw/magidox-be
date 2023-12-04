@@ -1,0 +1,1 @@
+Yahoo domainkeys is a way yahoo brings misery and grief to email forgers everywhere. It confirms whether emails are really from their claimed domain. You can find technical details at http://antispam.yahoo.com.domainkeys and implementation info at http://domainkeys.sourceforge.net.Rule of thumb tho is "if it seems to good to be true, it is!"

@@ -1,0 +1,1 @@
+a ccd file is a CD image file for CloneCD

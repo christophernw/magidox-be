@@ -1,0 +1,1 @@
+Instead of using Realplayer to play music, install some better music players like UltraMP3 player. These players automatically turn off hte light after some time (or u can use the settings to keep it switched on if u want).. . NOTE: U can't switch off the light when playing videos.

@@ -1,0 +1,1 @@
+Generally it is the standard deviation, or range of typical answers.  The mean usually is the center of the bars, but not always.

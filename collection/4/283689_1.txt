@@ -1,0 +1,1 @@
+eV=3kT/2 gives T = 0.16 gigakelvin. That is about 0.29 giga fahrenheit. giga = 1,000,000,000. This is 51 thousend times the sun's surface temperature which is only 5,7 kilokelvin.

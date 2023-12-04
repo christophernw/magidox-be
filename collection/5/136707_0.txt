@@ -1,0 +1,1 @@
+Where c is the hypotenuse, and a and b are legs of the triangle:. c² = a² + b² --- Pythagoren Therom. c² = (12)² + (20)² --- Replace what you know.... c² = 144 + 400 --- Find 12² and 20².... c² = 544 --- Add them together.... c = √544 --- Square root of 544 equals c. c ≈ 23.32"

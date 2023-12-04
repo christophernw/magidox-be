@@ -1,0 +1,1 @@
+All that its "period" depends on (the time it takes to swing back and forth) is it's length (and the force of gravity on earth).  So its mass and angular displacement don't matter.

@@ -1,0 +1,1 @@
+If you use the standard LimeWire directory, open iTunes, go to Add Folder (or file) to libary. go to program files, find limewire click on shared. Depending on iff you chose file or folder, click on the file/ folder and click open. The files have to be MP3 or unprotected WMA.

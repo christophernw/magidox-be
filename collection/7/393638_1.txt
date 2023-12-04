@@ -1,0 +1,1 @@
+Actually it will show your scheduled payment and the actual payment. If you look at your credit report there will be two entries: the Monthly Payment and the Actual Payment. The Montly Payment will be based on your interest rate, which might be $20-$30. The Actual Payment will be what you actually paid, in this case $300.

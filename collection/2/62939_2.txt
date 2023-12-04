@@ -1,0 +1,1 @@
+Call the first number "n." Since the numbers are consecutive, we have n, (n+1), and (n+2). Multiply n*(n+1)*(n+2) to get the product of three consecutive numbers and set it equal to 24,000. Solve for "n". Put this number back into (n+1) and (n+2) and ya got it

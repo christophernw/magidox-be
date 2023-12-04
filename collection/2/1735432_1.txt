@@ -1,0 +1,1 @@
+In a "perfectly" circular orbit, the potential and kinetic energies are unchanged throughout the orbit (the velocity of the object is constant).  In a elliptical orbit, the energies change (because the velocity is changing), thus work is being done.

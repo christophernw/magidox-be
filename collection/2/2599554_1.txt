@@ -1,0 +1,1 @@
+When you press a suction cup to, say, a wall, there is a certain amount of air in there. Then, when you attempt to pull it off, the air must expand in order to fill the space inside, and this means it has lower air pressure, which creates suction.

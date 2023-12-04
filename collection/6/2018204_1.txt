@@ -1,0 +1,1 @@
+You need to know the density and the temperature of your water. There is a conversion. Density is in grams/Litre or g/mL:. . Weight of water (g)= Density @ temp (g/L or g/mL) X Volume (L,ml)

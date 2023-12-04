@@ -1,0 +1,1 @@
+Divide the circle by four. Then take each fourth and divide by three.

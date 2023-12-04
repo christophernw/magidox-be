@@ -1,0 +1,1 @@
+A Platoon is a collection of soldiers within a Company, a Company is a grouping of Platoon, a Battalion is a group of Companies. Your friend in in 4th platoon, A Company, 2nd Battalion

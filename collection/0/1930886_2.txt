@@ -1,0 +1,1 @@
+Can you be a bit more specific? rate of heat transfer depends on a number of factors like temperature gradient, material transfering etc. heat can transfer pretty quickly in metals like copper that have low thermal resistances. If it is thermal radiation then i think it transfers at the speed of light!

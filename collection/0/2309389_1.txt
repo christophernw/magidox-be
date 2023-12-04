@@ -1,0 +1,1 @@
+Water inside the kernel boils and increases the pressure inside, to the point that it is greater than the pressure outside. When the structure of the kernel can no longer maintain the pressure difference, it pops.

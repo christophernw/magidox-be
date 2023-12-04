@@ -1,0 +1,1 @@
+1in = 2.54cm = 0.0254m. 1ft = 12in = 12 x 0.0254 = 0.3048m. Thus 1 foot = 0.3048 metres

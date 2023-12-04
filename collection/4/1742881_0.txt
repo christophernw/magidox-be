@@ -1,0 +1,1 @@
+These materials have areas within them call domains. Each domain has a magnetization that is pointed in a certain direction; when groups of domains are pointed in the same direction, the material is magnetized in that area (in the direction the domains are pointing).

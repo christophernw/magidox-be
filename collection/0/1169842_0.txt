@@ -1,0 +1,1 @@
+You don't need the software. Just open up My Computer and locate the USB drive with your phone conected. There should now be a file there. Now open up your music folder and drag and drop the music files into your phone or the phone's memory card.

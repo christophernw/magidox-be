@@ -1,0 +1,1 @@
+that is how it is defined. delta(x) is zero if x <> 0, delta(0)= infinite, and the integral of delta(x) from minus infinite to infinite is one.

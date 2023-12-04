@@ -1,0 +1,1 @@
+pythagorean theorem : a squared + b squared = c squared when c is the hyputenuse. . Hypotenuse is the long edge of the right triangle

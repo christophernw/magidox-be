@@ -1,0 +1,1 @@
+Like the previous responders said: an altimeter is used to display a measured altitude.  There are several type of altimeters, but the most common use atmospheric pressure to register an altitude reading.  The altimeter is usually set to 29.92 (if i remember right) for standardization.  Other forms use radar or laser.

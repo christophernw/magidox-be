@@ -1,0 +1,1 @@
+Easy. It is a triangle. 1/2 x h x b. Height x base / 2.

@@ -1,0 +1,1 @@
+It's a little chamber connected to the throttle cable that tells the computer how much mixture of air and fuel to send to the engine.  From there on, the information goes to the computer and then you're off!

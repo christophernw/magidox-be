@@ -1,0 +1,1 @@
+Don't you mean the Pythagorean Theorem?  That theorem is a basic tenent of Geometry that states: In any right triangle, the square of the length of the hypotenuse (side opposite the right angle) is equal to the sum of the squares of the other two sides.   A^2 + B^2 = C^2.

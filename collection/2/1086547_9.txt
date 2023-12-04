@@ -1,0 +1,1 @@
+Palindromes are words or phrases that can be read the same forward and backwards.  For example, "A man, a plan, a canal, Panama," is a palindrome.

@@ -1,0 +1,1 @@
+water gauge or u gauge is used to measure natural gas pressure. done in inches of water column and converted to lbs per inch.

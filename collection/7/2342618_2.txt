@@ -1,0 +1,1 @@
+Helipad numbers give the maximum weight in thousands of pounds that the helipad will support.. . Runways for fixed-wing aircraft are numbered for runway orientation.

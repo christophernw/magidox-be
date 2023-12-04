@@ -1,0 +1,1 @@
+It revs on and off when there's no load on the engine. When you turn the AC on, it puts a small load on the engine and steadies it out.. There's a solenoid that controls idle speed that might be bad. Or the engine might start to stall at the set idle speed, and gets reved up by the computer, just to start over again.

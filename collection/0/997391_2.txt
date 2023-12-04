@@ -1,0 +1,1 @@
+go to File > Print Preview > click on the last tab on that panel (can't remeber what it was) > and then check the box next to "show gridlines" , i hope this will work

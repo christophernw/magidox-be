@@ -1,0 +1,1 @@
+because the number it hidden. some phones shows you "call 1" or something. it depends on the phone. so u are trying to make an empty call which is not possible, you must have the number to call it

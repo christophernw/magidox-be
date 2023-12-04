@@ -1,0 +1,1 @@
+Windows CE (sometimes abbreviated WinCE) is a variation of Microsoft's Windows operating system for minimalistic computers and embedded systems. Windows CE is a distinctly different kernel, rather than a "trimmed down" version of desktop Windows. It is supported on Intel x86 and compatibles, MIPS, ARM, and Hitachi SuperH processors.

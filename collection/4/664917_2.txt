@@ -1,0 +1,1 @@
+PI is ratio of circumference to radius of a circle. Since to arrive at ratio both dimensions are measured in same units of length. Therfore it has no measurement unit of PI.. P=22/7 (Twenty two divided by seven) i,e if radius is 7 units of length, circumference would be 22 same units of length.

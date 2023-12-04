@@ -1,0 +1,1 @@
+The mean is the average of all numbers, in this case, 24. The median is the middle number, in this case, 25. The mode is the most often appearing number, in this case, both 25 and 29.

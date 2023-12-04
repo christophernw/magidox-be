@@ -1,0 +1,1 @@
+Shareholders do not work in the company.  They are considered external users.  Only those who work in the company...accountants, CFO, CEO etc. are considered internal users.

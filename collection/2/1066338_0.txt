@@ -1,0 +1,1 @@
+it's because of elasticity(bulk modulus).The force on the surface will try to reduce the volume and but as the volume changes, there is a net upward force and an eqilibrium will be reached when outward (volume)elastic force equals the downward cohesive force. But the decrease in volume and hence the level of warer is so small(in the order of micrometre) that we don't notice it.

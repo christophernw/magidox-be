@@ -1,0 +1,1 @@
+Generally, making an x,y chart helps plot your points. From there, you make a line.

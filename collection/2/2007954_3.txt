@@ -1,0 +1,1 @@
+Unfortunately it is not possible without rewinding the motor from 415/240V. This would also be true if indeed the hydro alternator (or synchronous motor) needed to have the output voltage changed.

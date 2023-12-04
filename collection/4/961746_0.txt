@@ -1,0 +1,1 @@
+This represnts the final numbers charged in the loan closing. It is the exact charges listed on government form "HUD - I - A settlement Statement".

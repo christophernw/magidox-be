@@ -1,0 +1,1 @@
+Since points don't have any size, the number of points doesn't contribute anything to the length of a line. The length of the line is only determined by where you put the end points.

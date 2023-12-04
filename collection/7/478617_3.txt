@@ -1,0 +1,1 @@
+top # is the pressure in the arteries when the heart is contracted, bottom number when they are relaxed. Systole and diastole.

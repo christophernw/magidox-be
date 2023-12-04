@@ -1,0 +1,1 @@
+As far as I know, an a=4.0, b=3.0, c=2.0, d=1.0, f=0.0. Take the number for each letter and add up all of you grades, then divide by the number of grades u have

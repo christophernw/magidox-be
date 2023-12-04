@@ -1,0 +1,1 @@
+Use a volt ohm meter to measure the output  of the alt.  It has to be above 12.6.volts and range to14.2 or so volts.  A fully charged battery is over 12.6 volts and the alt needs more than that voltage to charge back up..  Good luck..

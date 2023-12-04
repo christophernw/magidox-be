@@ -1,0 +1,1 @@
+you can use as a webcam only when your Camera has the Webcam option in your camera.. . Turn the option ON,. also there should be a driver to be installed. if your camera has this option, you can find the driver from the CD which comes with the Camera.

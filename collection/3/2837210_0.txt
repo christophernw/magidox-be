@@ -1,0 +1,1 @@
+inertia does have a measurement unit -- kilograms in SI units, and grams in cgs units.  as others have stated, relativity can come into play here.  mass (and therefore, inertia) is equivalent to energy, so as you approach the speed of light your energy (and thus, your inertia) increases in such a way to prevent you from ever reaching the speed of light.

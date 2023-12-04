@@ -1,0 +1,1 @@
+um, basically, there is no connection between resistance and frequency. there are however some circuits that output a frequency based on a time constant that can be set by a resistor though. if that is what you mean, then we need to know what circuit you are talking about.

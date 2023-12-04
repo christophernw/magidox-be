@@ -1,0 +1,1 @@
+a Coefficient is a number in front of a variable .  ex: 2x + 8y = 0 the 2 and the 8 are coefficients.

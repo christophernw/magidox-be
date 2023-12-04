@@ -1,0 +1,1 @@
+Find out what the largest common denominator is and divide.. . For example, when simplifying 15/18, you'd divide each by three, giving you 5/6

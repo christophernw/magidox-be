@@ -1,0 +1,1 @@
+stupid is as stupid does

@@ -1,0 +1,1 @@
+Abstract. The theory of the pneumatic pyrometer, in which gas temperature is determined from density measurements, is outlined and the design and characteristics of a small instrument are reported. Calibration curves covering a wide temperature range (200 to 1550° C) are given and the use of the instrument is described.

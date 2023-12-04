@@ -1,0 +1,1 @@
+It evolved from the 4040 which had 4kb memory and 4-bit ports.. The 8080 had 8x8kb memory.

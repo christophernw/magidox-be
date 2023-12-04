@@ -1,0 +1,1 @@
+We'd need to either see the circuit or have it described to us in order to answer.  If there are just two lamps and a voltage source and nothing else then the voltage across the second lamp would be 6V-2V= 4V. . So 4V

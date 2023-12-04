@@ -1,0 +1,1 @@
+if your report card doesnt have it add up the percentages corresponding the grade letter example: A 90 B 80 C 70 D 60 F 50 and below and divided by the number of classes . Ex: say you have six classes and you have 3 A's 2 B's and 1 C you would add up 3 90's 2 80's and 70 it equals 500 then you divided by 6 that equals 83.33333 you have a B average

@@ -1,0 +1,1 @@
+If you are copying the files onto the shuffle as mp3's without using the iTunes application, ie using windows explorer, then the shuffle won't play the music.  You need to use iTunes.  The shuffle can be used as a flash drive, but it doesn't play any music that wasn't transferred by iTunes.  Try reading the manual.

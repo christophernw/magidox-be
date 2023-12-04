@@ -1,0 +1,1 @@
+A composite signal contains both the brightness and color information, therefore the video has a bit 'lower' quality due to the mixing.. . A component signal usually separates at least brightness and color, sometimes even the individual RGB signals. Quality is better due to less 'mixing'.

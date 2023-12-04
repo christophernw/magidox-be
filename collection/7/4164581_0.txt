@@ -1,0 +1,1 @@
+its more like . lift = gravity . thrust = drag.. . ..you can't mix thrust and lift or gravity and drag...only those 2 factors are in equillibrium with each other in steady state flight

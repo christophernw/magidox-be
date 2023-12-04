@@ -1,0 +1,1 @@
+The commonly taught method for computing square roots with pencil and paper can be found in the Wikipedia article, "Methods of computing square roots".. . Scroll down to the heading "An exact long-division-like algorithm".

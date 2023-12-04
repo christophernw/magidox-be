@@ -1,0 +1,1 @@
+2 times because each coin has 1 head or tail .. so tossing it two times gives the prob. of 1/4

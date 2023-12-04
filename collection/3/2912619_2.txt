@@ -1,0 +1,1 @@
+If A and B are two vectors a1i + a2j + a3k. B b1i + b2j + b3k. . then a vector perpendicular(orthogonal) to both is A X B. A cross B then to find the unit vector. . devide A cross B by magnitude of A cross B. ( AxB )/|AxB|

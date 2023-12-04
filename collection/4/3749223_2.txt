@@ -1,0 +1,1 @@
+Convention, adopted to avoid negative numbers.

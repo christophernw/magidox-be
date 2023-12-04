@@ -1,0 +1,1 @@
+It's the measure of how accurate your answer is. An answer of 2.3 would be two significant figures, while 2.30 would be three significant figures. The difference is one is accurate to the tenth and the other to the hundredth. You also use significant figures for exponents, so instead of saying 23100, you'd say 2.31 * 10^4.

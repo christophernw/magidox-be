@@ -1,0 +1,1 @@
+perimeter r all 4 sides added together . area is 2 sides multiplied together

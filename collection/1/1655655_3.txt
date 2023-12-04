@@ -1,0 +1,1 @@
+Vanadium metal has the electron configuration [Ar]4s23d3, so there are 3 unpaired electrons present (Aufbau principle and minimization of electron-electron repulsions).  Unpaired electrons means paramagnetism.  In addition, those outer electrons are not very tightly held, and can be easily removed, so in a large sense vanadium metal is "swimming" in a sea of electrons.

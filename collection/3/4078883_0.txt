@@ -1,0 +1,1 @@
+sRGB has wider color gamut (more range of colors visible) but then CMYK printers cannot print even all the colors of generic RGB, so its just for your viewing pleasure.

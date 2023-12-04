@@ -1,0 +1,1 @@
+Diameter goes from one side of a circle through the center to the other side.  Radius only goes from the center to one side.

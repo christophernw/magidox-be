@@ -1,0 +1,1 @@
+An O2 sensor will have no effect on the starting of a GM vehicle.  What might be your problem is a loose battery, a VATS problem (clean the resistor on your key).  Or an starter problem (solenoid not engaging).

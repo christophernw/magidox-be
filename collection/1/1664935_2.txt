@@ -1,0 +1,1 @@
+Planets move in orbits (elliptical ones) around bigger planets or the Sun or other stars.. This is cause by the Centripetal Force ~. Planets try to accelerate away and gravity tries to get em towards the central body. Result is orbital.

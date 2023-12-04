@@ -1,0 +1,1 @@
+In general the cube (a^3 - b^3) is factored as (a - b)(a^2 + ab + b^2).. . So (x^3 - 64) = (x - 4)(x^2 + 4x + 16)

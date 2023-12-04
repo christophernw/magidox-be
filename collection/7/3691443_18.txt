@@ -1,0 +1,1 @@
+By default Mothers are Female, So Fathers are considered as male.

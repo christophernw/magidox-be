@@ -1,0 +1,1 @@
+Mikechampagne (and Steffy) are right.  Car audio amplifiers have "clipping" LED's to detect when it (the amplifier) is clipping (putting out distortion), not to tell you that your receiver (radio) is sending a distorted signal.

@@ -1,0 +1,1 @@
+There is no proof of 1=2 in base 10 number system (decimal system), but falsity. However, one can design a system wherein the first unit (1) may equal 2 of another system (example the decimal 2).

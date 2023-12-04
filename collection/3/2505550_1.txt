@@ -1,0 +1,1 @@
+Maybe we have many components that are only brought together with a single notion.We dont know they are there until we get the final peice.

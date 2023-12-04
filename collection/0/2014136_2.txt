@@ -1,0 +1,1 @@
+"than" is only used when comparing things. Ex: You have more books than I do.

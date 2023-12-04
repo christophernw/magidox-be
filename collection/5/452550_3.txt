@@ -1,0 +1,1 @@
+The relay is a switch that is used to control an electrical circuit. It could be normally open or normally close. it is operated by a coil which when energized it produces an electromagnetic force that pulls or push the contacts of the switch.

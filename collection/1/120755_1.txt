@@ -1,0 +1,1 @@
+i found that my 256  RAM was too little, so i added memory by physically installing more RAM.  It was running really choppy and taking long pauses  -with the extra memory it worked much better.  Also - make sue you've shut down all background applications except the vital ones to keep the computer working - there's more details about that in the instruction book.

@@ -1,0 +1,1 @@
+Use a circuitboard that implements the correct configuration for the pin arrangement of the memory chip and mount the chip to it via soldering.  Locate the correct pin-out for the chip for wiring and afix the board to what it is being used with.

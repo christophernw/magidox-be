@@ -1,0 +1,1 @@
+Mitotic index is a measure for the proliferation status of a cell population. It is defined as the ratio between the number of cells in mitosis and the total number of cells

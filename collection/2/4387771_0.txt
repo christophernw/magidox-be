@@ -1,0 +1,1 @@
+A hard copy is like a concrete representation of say a file.  If you print it on paper that becomes a hadcopy of a softcopy ( a software version ).. a hard copy is a permanent reproduction, on any media suitable for direct use by a person (in particular paper), of displayed or transmitted data.

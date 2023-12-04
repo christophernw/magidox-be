@@ -1,0 +1,1 @@
+They denote elevation.  The closer they are the steeper the climb and vice versa.  The contour interval will be listed in the legend.

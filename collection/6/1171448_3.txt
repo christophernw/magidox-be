@@ -1,0 +1,1 @@
+Planets rotate around the Sun,moons orbit around planets also.

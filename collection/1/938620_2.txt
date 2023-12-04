@@ -1,0 +1,1 @@
+"Net on Receipt" means that the actual amount on the invoice should be paid when you receive the invoice.  There might be an additional charge if you pay more than 15 days or 30 days after receipt of the invoice, depending on what the credit terms are.

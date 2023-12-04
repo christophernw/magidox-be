@@ -1,0 +1,1 @@
+For internet explorer, this refers to some data which is stored so that whenever you type anything in the field it is filled from previous entry.. . It is optional to keep such data

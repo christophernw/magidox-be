@@ -1,0 +1,1 @@
+Chokes don't like heat, but I suspect something more. There's a charging circuit, the choke acts like a filter for the storage battery. The charging circuit is pulsing the battery. This pulsing is killing the choke, but without it it will cause damage to the battery and/or the light.. You will want to increase the ampacity of the choke, but keep the same mH value if you can.

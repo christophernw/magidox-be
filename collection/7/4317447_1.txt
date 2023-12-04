@@ -1,0 +1,1 @@
+If you are asking about a thing called a standoff that is made of teflon, then it is usually a threaded part used to put a small space between two parts of a device, usually circuit boards. Teflon is used when there are high temperatures or possibly an outgassing issue, like on a satellite. High frequencies also favor the use of teflon.

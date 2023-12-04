@@ -1,0 +1,1 @@
+If it is feedback, remove any sends from your stereo going to your DVD player. If that doesn't work something is routed wrong on your stereo. If it is an electrical hum, re-route the power so your stereo and DVD are on the same circuit. If that doesn't work make sure no power cords are crossing over any A/V feeds.

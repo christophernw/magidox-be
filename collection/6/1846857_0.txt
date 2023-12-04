@@ -1,0 +1,1 @@
+first, convert the 15% to decimal by dividing it by 100. That will give a result of 0.15.  Multiply this result to 48.  48*0.15=7.2. . Simple!

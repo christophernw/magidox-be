@@ -1,0 +1,1 @@
+Usually mu-metal is used for this.  It has a very high permeability.  Soft iron is a reasonable substitute, and easier to obtain, it shields magnetic fields quite well.

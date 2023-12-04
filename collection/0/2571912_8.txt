@@ -1,0 +1,1 @@
+total no. of outputs = tailhead,headtail,tailtail,headhead =4. . . . so probability of getting head twice is 1/4

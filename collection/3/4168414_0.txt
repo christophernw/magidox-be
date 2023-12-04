@@ -1,0 +1,1 @@
+You want your solution to be very uniform in temperature and concentration -- no hot spots and the liquid dripping back down is quickly remixed with the bulk. This way only one constituent is boiled off at any time.

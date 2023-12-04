@@ -1,0 +1,1 @@
+Parenthesis, Exponents, Division, Multiplication, Addition, Subtraction. In that order.

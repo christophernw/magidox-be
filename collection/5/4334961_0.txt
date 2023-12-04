@@ -1,0 +1,1 @@
+Google does not seem to work with keywords any more, they have a more sophisticated system and only look at words really used in the content.. . In MS Internet Explorer you can see the keywords of most websites by choosing "source text" in "view" (3rd of the left - sorry I only have a German version of IE6, so I do not know the exact menu structure)

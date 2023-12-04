@@ -1,0 +1,1 @@
+Definition of work done = magnitude of displacement times the force  in the same direction as the displacement. . equation. work done = force x displacement x cos(A). . the angle (A) is defined as the angle between the force and the displacement vectors. . well thats what i think anyway

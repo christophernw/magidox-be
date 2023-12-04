@@ -1,0 +1,1 @@
+A diode only allows the flow of current in one direction. So if you connect the LED in an AC circuit, you should see it flashing at the same frequency as the AS current.

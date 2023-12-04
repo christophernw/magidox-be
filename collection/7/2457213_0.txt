@@ -1,0 +1,1 @@
+Do you mean "how would you define what a dielectric is?". or "how do you characterise dielectrics?". If your question is the former, it's simply anything with a relative permittivity greater than 1.. If it's the latter, quote the value of the relative permittivity, e.g. for glass, it's about 2.25

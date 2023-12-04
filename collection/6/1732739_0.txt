@@ -1,0 +1,1 @@
+pH + pOH = 14. pOH = 14-4 = 10.                 . pOH = -log[base 10]  [OH]-.           . [OH]- =10 raised to -10

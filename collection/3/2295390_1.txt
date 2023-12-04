@@ -1,0 +1,1 @@
+If you have Windows Media Player on your PC it will work to transfer audio files to your player. First go into media player, then plug your MP3 player into a USB port. Windows Media player will recognize it. Good lick.

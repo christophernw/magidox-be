@@ -1,0 +1,1 @@
+A = 4  Honor/AP A = 5. B = 3  Honor/AP B = 6. C = 2  Honor/AP C = 3. D = 1  No Point for D. F = 0  No Point for F

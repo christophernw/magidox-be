@@ -1,0 +1,1 @@
+Check what kind of bluetooth connectivity you have on your phone. Unfortunately not all bluetooth phones are capable of conecting to your laptop. You do have to check. In case it doesnt try a usb cable. . Good Luck

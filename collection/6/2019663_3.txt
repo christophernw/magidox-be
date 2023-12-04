@@ -1,0 +1,1 @@
+Given a(x^2) + bx + c as the quadratic the c determines the vertical shift of the graph. If c = 0 you get a parabola whose vertex touches (0,0). If c > 0 the graph shifts up to have a y-intercept of (0,c). If c <0 you get the same result but (0,c) falls below the x-axis.

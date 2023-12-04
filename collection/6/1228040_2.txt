@@ -1,0 +1,1 @@
+Zener diodes will break down at a preset voltage and allow current to travel in both directions instead of rectifing it. A rectifing diode will only allow currrent in one direction. Hence the "rectifing" word.

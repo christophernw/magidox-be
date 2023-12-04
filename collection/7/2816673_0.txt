@@ -1,0 +1,1 @@
+It means that the user has selected a specific type of paper that is not on the Fax/copier. This needs to be added on the bypass tray or inone of the empty bins on the copier.. . If you just want to print on regular 8 1/2 X 11 paper, you can select that when you click on print options.

@@ -1,0 +1,1 @@
+Cor this is diffcult one. I think the distance between star and planets is calculated using the relative distance between the Earth and the Sun. I think this is known as an Astronimical Unit.

@@ -1,0 +1,1 @@
+Open Windows Media player, and go to Help > About Windows Media Players.  Then you can see the version.

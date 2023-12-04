@@ -1,0 +1,1 @@
+Fact or out the x. This leaves 36x^2-84x+49 which is a perfect square (6x-7) so it facotrs to:. . x(6x-7)(6x-7)

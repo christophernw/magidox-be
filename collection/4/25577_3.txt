@@ -1,0 +1,1 @@
+You dial the international dialing code (either 001 or 011) followed by country code (886) province code (if any) followed by the phone number. Calling mobile number, you can drop the province code.

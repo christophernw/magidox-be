@@ -1,0 +1,1 @@
+When you scan a page of text (like a book page), the resulting file is usually a graphics file (gif, jpeg, etc).. . OCR can turn that into a text file. Ideally, it would save you a lot of typing time.

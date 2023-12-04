@@ -1,0 +1,1 @@
+If the CCD is an image sensor, dust on the surface will reduce the intensity of the image.  If it is a camera sensor, dust will produce spots in the image.

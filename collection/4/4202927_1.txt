@@ -1,0 +1,1 @@
+You would have to wire up a battery to the secondary side of the transformer inside the radio the first thing that happens to the power entering the radio is it is converted to dc before it can power the board inside. All electronic devices run on DC

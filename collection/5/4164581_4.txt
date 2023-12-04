@@ -1,0 +1,1 @@
+If the airplane is cruising at a constant speed in level flight the forces are balanced.. Thrust balances drag for constant speed. Weight(gravity) balances lift for level flight.

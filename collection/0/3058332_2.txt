@@ -1,0 +1,1 @@
+What you are referencing are inductive loops that are placed in the pavement.  They work on the theory of inductance that is caused by a large mass of metal passing over the loops.

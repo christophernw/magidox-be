@@ -1,0 +1,1 @@
+If I apply a potential difference of 1 volt across the terminals of a resistor and measure the current and if I find the current is found to be 1 ampere than the resistance of the conductor is 1 ohm.

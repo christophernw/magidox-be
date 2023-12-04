@@ -1,0 +1,1 @@
+The results may be affected by not cleaning the sides with distilled water.  Assume that your titrant has pH 10.  that will be 1000 times more concentrated that distilled water.  Losing some of this titrant to the wall may affect your result.  Putting some more water will not.

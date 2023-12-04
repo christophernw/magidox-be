@@ -1,0 +1,1 @@
+A relay is a simple electromechanical switch made up of an electromagnet and a set of contacts. Relays are found hidden in all sorts of devices. In fact, some of the first computers ever built used relays to implement Boolean gates.

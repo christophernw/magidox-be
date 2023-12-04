@@ -1,0 +1,1 @@
+A business would encode it's data when storing it on an electronic system for two primary reasons.  The first is to reduce storage space (compression) and the second is for security (encryption).

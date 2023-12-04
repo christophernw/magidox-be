@@ -1,0 +1,1 @@
+If your LED don't already have current limiting resistor built in, you'll need to add them. This calc will help you:. . http://led.linear1.org/led.wiz

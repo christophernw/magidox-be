@@ -1,0 +1,1 @@
+Go to Control Panel, Users. There you can delete the whole account and add that account back. It'll ask you if you want to delete all the files, say YES.

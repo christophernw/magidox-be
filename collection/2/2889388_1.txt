@@ -1,0 +1,1 @@
+I would assume it will oscillate longer. But, if we think about this, it should oscillate less due to the fact there less weight of the Block. The Tension of the spring would over come the momentum of the Block much quicker.

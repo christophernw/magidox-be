@@ -1,0 +1,1 @@
+A switcher will usually accept multiple input sources, such as DVD, VCR, CD, etc, then route the selected input to the output to one set of speakers.

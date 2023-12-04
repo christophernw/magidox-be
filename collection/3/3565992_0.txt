@@ -1,0 +1,1 @@
+It's to give you the option whether to use the keys on the right as numbers or as navigation arrows. If you press the Num Lock, it will work as numbers in a comfortable form that is easier to use if you are entering or calculating plenty of numbers and if you deselect it it will work as navigation arrows in a uncomfortable form.

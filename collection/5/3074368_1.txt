@@ -1,0 +1,1 @@
+Go to View in the tool bar... then "character encoding"... then "more encodings" ... "east asian"... and try all the different Japanese ones until one works.  That's how it is for me, anyway.

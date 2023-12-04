@@ -1,0 +1,1 @@
+Once you have the player connected to you computer via the USB cable, it should show up under "MY COMPUTER" as an additional device.  You just open the music folder and drag and drop the files into Media Player.

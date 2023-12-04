@@ -1,0 +1,1 @@
+As the temperature is lowered, the temperature heads more and more towards absolute zero. The third law of thermodynamics states that as temperature approaches more and more towards absolute zero, the system will head towards no entropy. Since a solid has less entropy than water, the liquid water heads to solid at low temperature.

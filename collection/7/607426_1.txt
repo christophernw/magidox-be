@@ -1,0 +1,1 @@
+It is a check-in record for serial issues (or in some cases, CD-ROMs). Information collected on the Kardex pertains to the individual issues and should contain information such as volume, issue/s, expected date of arrival and actual dates of arrival in the collection and date of publication. Other notes will be maintained about each problem which comes up.

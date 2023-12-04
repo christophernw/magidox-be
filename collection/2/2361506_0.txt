@@ -1,0 +1,1 @@
+When dealing with simple shapes, an area is spanned up by two vectors. The area shape will have a normal vector indicating how it is oriented in space, resulting from the cross product of the two linear vectors with the length indicating the area units.

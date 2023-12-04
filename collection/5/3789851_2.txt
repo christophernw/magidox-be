@@ -1,0 +1,1 @@
+Well divX also compresses hugh movie files into small ones < without compromising picture quality >.Like for eg a 1GB file can be sized down to 200mb using divX.

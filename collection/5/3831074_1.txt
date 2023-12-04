@@ -1,0 +1,1 @@
+those are there so the computers, and cameras can graph the movement of the car/dummy during a crash. they are reference points, or benchmarks.

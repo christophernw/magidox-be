@@ -1,0 +1,1 @@
+Probability of getting one head = 1/2. Probability of getting two heads = (1/2) * 2 = 1/4. You have a 25% chance of getting a head two times.... And 12.5% chance of getting a head 3 times.... And 6.25% chance of getting a head 4 times.... .. .. .. And 0.09765625% chance of getting a head 10 times!!! :)

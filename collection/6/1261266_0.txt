@@ -1,0 +1,1 @@
+The D/A drives the servo input of the actuator.. The 3-8 drives the raster sweep of the 7-segs.

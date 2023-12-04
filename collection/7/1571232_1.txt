@@ -1,0 +1,1 @@
+The square root of a negative is the same number as you would get for a positive but multiplied by "i" which represents a square root of negetive one (-1). "i" is called an imaginary number and it was introduced to make certain calculations possible, for example it is widely used in differential equations. Hope it helps.

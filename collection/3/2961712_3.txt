@@ -1,0 +1,1 @@
+No no no. Subtract 273.15 to get C.. . Then multiply by 9, divide by 5, and add 32 to get F.

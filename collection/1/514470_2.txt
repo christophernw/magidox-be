@@ -1,0 +1,1 @@
+get a mosfet with low rds.. heat is watts.. for BJT p=vxi . you want to saturate the transistor, Ib.. Get a power MOSFET. it is voltage driven on the gate.. for mosfet P = Isqred X r. If it is too hot to touch, it is too hot, . then you need a heatsink. MIKE

@@ -1,0 +1,1 @@
+One way to quickly see that i x i = 0 is that. . |AxB| = |A||B|sin(theta) where theta is the angle between A and B. When you do i x i, theta = 0.. . . Another way to see it is computing the determinant. . |i j k |. |1 0 0 | = i x i. |1 0 0 |. . since the determinant has two identical rows, it will evaluate to 0.

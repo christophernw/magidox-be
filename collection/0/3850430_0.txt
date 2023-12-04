@@ -1,0 +1,1 @@
+In bases 4 through infinity, the answer is "3". For base 2 it is "11" and for base 3 it is "10". In fibbonaci numbers, the answer is "2", and for Mercenni primes it is "18".

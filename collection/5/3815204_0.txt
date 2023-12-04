@@ -1,0 +1,1 @@
+The y-intercept is moved to 6 on the y axis from -5.  Also, the slope changes to 5/1 (5 up, 1 right) from 2/1 (2 up, 1 right), creating a sharper increase in the line.

@@ -1,0 +1,1 @@
+Any current-carrying wire produces a magnetic field. The intensity of this field is proportional to the amount of current passing through a conductor. The stronger the current... the higher is the magnetic field produced.

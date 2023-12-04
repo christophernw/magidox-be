@@ -1,0 +1,1 @@
+use your quadratic formula. . x = [-b + or - sqrt(b^2-4ac)] / (2a)

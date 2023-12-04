@@ -1,0 +1,1 @@
+Diagonally from screen corner to screen corner.  makes no difference upper right to botton left, or top left to bottom right.

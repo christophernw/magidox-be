@@ -1,0 +1,1 @@
+It turns red when air hits it.

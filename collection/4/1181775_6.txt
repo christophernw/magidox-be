@@ -1,0 +1,1 @@
+work is defined as the force exerted on some object as a result of that it tendsto move .work does not involves any TIME parameters .. . But power is different some work.power is nothing but ability of a body to do work.ie how much work can be done in a particular amount of time .power depends upon the TIME parameter.

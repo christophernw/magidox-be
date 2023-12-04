@@ -1,0 +1,1 @@
+There ate a number of things. 1. Are you sure that your measurement is wrong?. 2. Are you sure your ranges are set properly ?. 3. Calibrate your meter (or check its calibration against a standard or a known value).. 4. Are you measuring the source under load? The load may draw current from the weak source creating this effect.. . Can you supply a more detailed information?

@@ -1,0 +1,1 @@
+Use the Character Map Utility in Windows. . Start > Programs > Accessories > System Tools > Character Map. . Select the font. In this case it is 'Arial' . Select the symbol. Select. Copy the symbol. Paste it in the text area. You get : π

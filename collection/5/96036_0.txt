@@ -1,0 +1,1 @@
+divide the year by 4 if remaindr is 0 then leap year otherwise non leap year

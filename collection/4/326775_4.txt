@@ -1,0 +1,1 @@
+Old versions of Musicmatch Jukebox [free!] up to about ver 6 have a  direct recording facility.  Plug a mic into the PC, select mic in record options and go for it - but set your levels and select the mic input in system mixer under the record option display.. New versions don't have it, but you can get the old ones at oldversion.com.

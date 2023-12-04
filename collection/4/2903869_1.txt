@@ -1,0 +1,1 @@
+The relationship is linear.  It has a slope component and a y-intercept component.. . The difference can be described by the formula:. . F = (9/5)C + 32.  Using a little algebra, you can also arrive at:. . C = 5(F-32)/9.. . If you can remember 100 C = 212 F and 0 C = 32 F, you can derrive the formula yourself during a test using the point-slope equation.. . Good luck.. C

@@ -1,0 +1,1 @@
+It sounds like a sensor. They will sometimes malfunction after they reach a certin temp. Run a code check to see what comes up.

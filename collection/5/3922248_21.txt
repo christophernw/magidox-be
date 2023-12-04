@@ -1,0 +1,1 @@
+There are things called imaginary numbers.. . Although you can't really do a root of a negative, you can keep an imaginary 4.  Eventually in algebraic manipulation you might be able to take the term to a power giving back a legal negative result.. . If you can't cancel your imaginary numbers this way then you, in fact, have an unsolvable problem.

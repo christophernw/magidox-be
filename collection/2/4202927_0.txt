@@ -1,0 +1,1 @@
+What you need is an Inverter to convert DC (typical battery) to AC (typical wall socket).. . Technical answer:. http://en.wikipedia.org/wiki/Inverter. . Commercial answer:. http://www.dcacpowerinverters.com. . You can buy this device in almost any store where electronics are sold.

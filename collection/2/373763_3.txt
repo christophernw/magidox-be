@@ -1,0 +1,1 @@
+You need to test the oil psi switch by hooking up an external oil pressure gauge and compare that with the gauge on the dash. Also check your oil, make sure you don't have any coolant in it, they are good for leaky lower intake gaskets.

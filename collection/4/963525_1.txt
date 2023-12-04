@@ -1,0 +1,1 @@
+Short wire all yellow cables to ground.  Apply 3v 300ma current to the display.. . A very easy remedy.  If its a Ford truck just short wire the blue ones.

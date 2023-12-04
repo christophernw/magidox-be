@@ -1,0 +1,1 @@
+if you leave an acid, it's concentration decreases after a while so you do a process called standardisation: you titrate the acid with a know concentration of alkali solution and measure the volume needed for neutralisation to occur such as by using a indicator.  Then you can calculate the actual concentration of the acid for the experiment.

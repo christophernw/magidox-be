@@ -1,0 +1,1 @@
+if you're actually going to hook up a capacitor... and it's an electrolytic one. i'd make damn sure to hook it up right.. . i dont understand if you want to know how to discharge one or if you want to know what happens during the discharge process

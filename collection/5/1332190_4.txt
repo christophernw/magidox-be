@@ -1,0 +1,1 @@
+with the engine COLD put a coolant tester on the radiator, basically it is a pump to pressurize the cooling system. Most systems operate at 15 psi, pump it to 15 psi and wait for a pressure drop, if there is a drop in pressure, you will see fluid comming out of that area.

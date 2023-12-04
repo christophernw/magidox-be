@@ -1,0 +1,1 @@
+do we have choices?  like multiple choice or something?  if we are supposed to answer short answer, i would say the sum of all the values < the median is < the sum of all the values > the median.

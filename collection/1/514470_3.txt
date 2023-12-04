@@ -1,0 +1,1 @@
+Thermal Runaway... The hotter a transistor gets the more it conducts the more it conducts the hotter it gets. I'd either use a higher wattage transistor, or add a heat sink.

@@ -1,0 +1,1 @@
+Error code 7514 indicates "Transaction not approved" by the host processor. Not the fault of your account

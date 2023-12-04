@@ -1,0 +1,1 @@
+lab test for kidney disease: albumin, calcium, creatinine, estimated GFR, creatinine clearance, electrolytes, erythropoietin, microalbumin, parathyroid hormone, phosphate, potassium, prealbumin, renin, urinalysis, urine culture, vitamin D. . lab test for liver functions: Liver panel, AST, ALP, ALT, Albumin, Bilirubin, PT, AFP, Total protein

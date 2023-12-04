@@ -1,0 +1,1 @@
+45 = 3 * 3 * 5. 800 = 2 * 2 * 2 * 2 * 2 * 5 * 5. The LCM would have to include at least as many factors as what was already mentioned = 3 * 3 * 2 * 2 * 2 * 2 * 2 * 5 * 5.  = 7200

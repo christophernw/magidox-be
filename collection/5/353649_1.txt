@@ -1,0 +1,1 @@
+the scale of stellar magnitude (brightness) is logarithmic and the lyapunov exponent in chaos theory is defined using logarithms (chaos theory can be applied to finance)

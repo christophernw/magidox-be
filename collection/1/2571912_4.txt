@@ -1,0 +1,1 @@
+(1/2) that it will lead heads once. The probability that it will like on heads again, is done like this. . (1/2) * (1/2) = (1/4)

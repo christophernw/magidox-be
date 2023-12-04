@@ -1,0 +1,1 @@
+I think your radio is picking up interference from a different component which has been fried.  Perhaps the interference suppressor in the ignition circuit?  On older vehicles this is a capacitor near the timing points/distributor.  (a metal cylinder about half an inch across) It you can find it, this is cheap to replace.

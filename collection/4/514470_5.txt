@@ -1,0 +1,1 @@
+You're not switching the transistor properly. Normally it is either full on (very little voltage across the junction) or fully off (no current flowing). So it should be fairly cool.

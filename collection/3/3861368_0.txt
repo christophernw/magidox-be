@@ -1,0 +1,1 @@
+To elaborate about the buses, some models of buses are able to be fuelled from both sides.  Older buses such as MCIs MC9 can only be fuelled on the right hand side.  Newer models such as Prevost H345s, MCI 102DL3 and E4500 are able to be fuelled from either side as the diesel tank is located in the middle.

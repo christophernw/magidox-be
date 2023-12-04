@@ -1,0 +1,1 @@
+To have one branch be able to keep an 'eye' on two other branches so that no one branch may become too powerfull

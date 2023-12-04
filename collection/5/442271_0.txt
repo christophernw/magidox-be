@@ -1,0 +1,1 @@
+Not much.  A while ago, it was unclear which representations would be most useful.  Binary is still useful for bit-operations and bit-math (shift, XOR, etc), hex is useful for viewing stack and/or program data.  Octal... not so useful anymore.

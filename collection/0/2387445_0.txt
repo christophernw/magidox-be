@@ -1,0 +1,1 @@
+A routing number is the bank's code.  It tells merchants (and other banks) where to direct the $$ to or take the $$ from.

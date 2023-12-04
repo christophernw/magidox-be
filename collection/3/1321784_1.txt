@@ -1,0 +1,1 @@
+If you look at the holster there a small metal circle near the lower portion of it.  The blackberry detects that metal part and assumes its in the holster.

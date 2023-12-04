@@ -1,0 +1,1 @@
+The volume of a square is equal to the radius squared times pie (3.14...)    (i.e. r(2) x 3.14).  So if you have a cylindar whose radius is 3 inches... 3 inches squared is 9...times 3.14 = the volume.

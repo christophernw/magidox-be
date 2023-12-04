@@ -1,0 +1,1 @@
+If you want to integrate it using real numbers, . . ans = 0;. for m = lower_Limit:dx:upper_Limit.    ans = ans + equation(m). end. . If you want to use symbols, use the symbolic library toolbox.

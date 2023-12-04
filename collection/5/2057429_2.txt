@@ -1,0 +1,1 @@
+using the formula S=R(theta). . S = the arc length. R = radius. (theta) = in radians. (alpha) = in degrees. . or you can use the same formula with degree to radian conversion in it.. . S=R*[(alpha)*Pi/180]

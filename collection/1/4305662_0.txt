@@ -1,0 +1,1 @@
+The organization and maintenance of a directory service, which manages user access in a network. See directory service.. . The organization of directories (folders) on a hard disk, which is provided automatically by the operating system's file system and managed manually by file manager and command line utilities. See file system and file manager

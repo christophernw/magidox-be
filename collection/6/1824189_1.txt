@@ -1,0 +1,1 @@
+Try a little C-4 around the airfoil, that should do the trick.

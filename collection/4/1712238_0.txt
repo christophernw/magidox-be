@@ -1,0 +1,1 @@
+35mm is the width of the exposed frame when using this type of film.  Technically speaking, it's actually 36mm, but, when printing 0.5mm cutting off from either end is assumed, leaving you with 35mm.

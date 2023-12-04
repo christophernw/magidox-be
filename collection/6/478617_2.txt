@@ -1,0 +1,1 @@
+for example: 120/80, 120 is the systolic preassure - when the heart has ended contracting, 80 is the diastolic preassure - when the heart is expanded and full of blood.

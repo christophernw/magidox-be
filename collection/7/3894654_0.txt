@@ -1,0 +1,1 @@
+Rational numbers have the special property that any rational number p/q is a rational multiple of any other rational number r/s.. . p/q = (ps/rq) (r/s). . This property does not exist for integers, and hence we talk of least common multiple for integers, but not for rational numbers.

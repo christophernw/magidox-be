@@ -1,0 +1,1 @@
+multiplication comes from adding the same value each time..... ie.. n+n =2n, n+n+n=3n. . so when there's no n on the left hand side, it would be 0+0, which of coz equals 0

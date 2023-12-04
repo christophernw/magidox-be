@@ -1,0 +1,1 @@
+Snowquart's caveat is important.  Any positive y value corresponds to two x values, and if y increases the positive x increases, the negative value decreases.. . Simplest way to say this is. absolute value of x increases.

@@ -1,0 +1,1 @@
+each mutual fund has NAV, PE and Price to book.  You can check it out with Morningstar.

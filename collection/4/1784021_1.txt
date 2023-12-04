@@ -1,0 +1,1 @@
+Civics do not have v-tec engines. V-Tec engines have variable valve timing, meaning as the rpms go up, the engine changes when the valves open to allow better breathing. This is like a kick in the pants but only works at higher rpms.

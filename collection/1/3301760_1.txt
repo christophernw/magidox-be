@@ -1,0 +1,1 @@
+In a nut shell the Capacitive Discharge Ignition utilizes a capacitor to store the spark required for ignition. This concept is different from the old oil filled wire wound coil.

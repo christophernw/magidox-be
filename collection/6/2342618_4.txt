@@ -1,0 +1,1 @@
+Those numbers represent the degrees from which the prevailing wind blows at that site. You add a 0 to the number you see: for example, 11 becomes 110, and you will know that the porevailing wind at that spot comes from 110 degrees on the compass.

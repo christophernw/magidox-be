@@ -1,0 +1,1 @@
+You meaure a television using any length measuring instrument and meansure it from the lower-left corner to the upper-right corner to determine the length.

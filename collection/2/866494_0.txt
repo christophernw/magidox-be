@@ -1,0 +1,1 @@
+Besause when you multiply two numbers you are actually performing an addition, for example:. . 2(-2) or 2*-2 What this means is that you have to add -2 twice: (-2)+ (-2) which = -4. . when the multiplication is -2(2) you are to take away 2 two times (subtract): -(2)-(2) = -4

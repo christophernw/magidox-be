@@ -1,0 +1,1 @@
+Acoustical or electrical noise of which the intensity is the same at all frequencies within a given band.

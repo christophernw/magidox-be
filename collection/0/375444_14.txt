@@ -1,0 +1,1 @@
+Start by doing the operation in the parentheses.  Then just work through from left to right.

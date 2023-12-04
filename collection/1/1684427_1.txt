@@ -1,0 +1,1 @@
+Band pass filter. Rejects all signals outside the IF channel boundaries.

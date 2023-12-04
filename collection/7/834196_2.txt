@@ -1,0 +1,1 @@
+Because the SI Unit for distance is the meter (or metre) and the SI Unit for time is the second.. . Naturally, using these two SI Units, we can form m/s^2

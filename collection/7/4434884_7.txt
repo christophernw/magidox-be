@@ -1,0 +1,1 @@
+Water is used as a method blank in analytical chemistry.  It is taken through the analysis along with any real samples to determine if there are any target analytes that come from the analysis.  If there is nothing found in the blank, then anything found in the sample is really there.

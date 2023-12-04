@@ -1,0 +1,1 @@
+Ex: Your parents 1st cousin are your first cousin 1 removed.  Your grandparents 1st cousin are your first cousin twice removed and so on.

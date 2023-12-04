@@ -1,0 +1,1 @@
+mmm, the fundamental teorem of of algebra says that as a 5th grade ecuation, it has at less five real solutions.. anyway, as a 5th grade acuation, you can´t use any analitic method to solve it: use the method of Newton-Raphson and star doin your own homework :p

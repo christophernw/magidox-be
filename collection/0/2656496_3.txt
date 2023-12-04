@@ -1,0 +1,1 @@
+There are several variants of PAL.. . The U.K. uses PAL-I.. . Australia uses PAL-B and G.. . The main difference is the sound-carrier offset which is 6MHz in the I variant and 5.5 in the I.. . This means that a receiver built for one variant won't receive the sound of the other.

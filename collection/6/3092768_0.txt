@@ -1,0 +1,1 @@
+Electrolysis of water can be achieved in a simple hands-on project, where electricity from a battery is run into a cup of water. Hydrogen gas will be seen to bubble up at one of the immersed battery probes, and oxygen will bubble at the other.   2H2O(l) → 2H2(g) + O2(g)

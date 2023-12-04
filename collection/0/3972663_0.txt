@@ -1,0 +1,1 @@
+First you resolve first row by x+y+z=0. Then resolve other two rows. This is a linear form of matrix 3x3.

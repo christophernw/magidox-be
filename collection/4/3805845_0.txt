@@ -1,0 +1,1 @@
+Assuming they are all independant, you do the odds of each of those not happening, multiply them together, and subtract that from 1.. . .75*.82*.82=.5043.  That's the odds of nothing happening.. . So the odds of something happeneing must be 1-.5043 = .4957

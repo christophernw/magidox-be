@@ -1,0 +1,1 @@
+You may get the wrong answer if you don't.. . What is 2*3+4?. . a) (2*3) +4 = 10. b) 2*(3+4) = 14. . The correct answer is a.

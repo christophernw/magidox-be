@@ -1,0 +1,1 @@
+There are many differences one of the most important one is that for a continuous system the governing equation are PDE while in the case of discrete they are ODE :)

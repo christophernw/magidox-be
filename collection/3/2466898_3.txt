@@ -1,0 +1,1 @@
+If you run a wire with an inline fuse to  battery from the LEDs and run a ground wire you will not hurt your car. use a 25W fuse at the most. if the fuse blows you have a wiring problem with the LEDs. if it dont blow just wire the lights to a switch by itself

@@ -1,0 +1,1 @@
+x^4 - 6x^3 + 6x - 36. (x - 6)(x^3 + 6). . i had to use quickmath.com for this one.

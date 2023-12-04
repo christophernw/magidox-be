@@ -1,0 +1,1 @@
+CTRL + ALT + DEL, and end the task "KILL_SELF.EXE" in the process list.

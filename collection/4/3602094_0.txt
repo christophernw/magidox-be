@@ -1,0 +1,1 @@
+Pink noise also known as 1/f noise or flicker noise, is a signal or process with a frequency spectrum such that the power spectral density is proportional to the reciprocal of the frequency. It occurs in many fields of study and takes its name as being intermediate between white noise and red noise.

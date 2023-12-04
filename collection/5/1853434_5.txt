@@ -1,0 +1,1 @@
+Easy - divide by 100  (this gives you 1%) and then multiply by 5 (hence 5%). Thus 1840 x 5 = 9,200

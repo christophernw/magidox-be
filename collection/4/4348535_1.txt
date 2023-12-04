@@ -1,0 +1,1 @@
+keep motor running if it's a automatic. dipstick should b close to fiewall pull out read it add if reads add

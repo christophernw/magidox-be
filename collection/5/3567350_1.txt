@@ -1,0 +1,1 @@
+Multiply the length by the width.

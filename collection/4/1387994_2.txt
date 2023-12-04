@@ -1,0 +1,1 @@
+A monomial is already factored.  However you could write it using smaller factors.  . For example, you could write 20x^3 as 2(2)(5)(x)(x)(x)

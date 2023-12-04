@@ -1,0 +1,1 @@
+We treat the object being heated as a resistor. Therefore, P=IV=I^2*R. P is the Power. All the power exerted on the resistor is transformed into heat. Hence, Q(heat)~P~I^2.

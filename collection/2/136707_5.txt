@@ -1,0 +1,1 @@
+the hypotenuse is the longest side of the triangle so the hypotenuse is 20

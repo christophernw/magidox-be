@@ -1,0 +1,1 @@
+Ok.... . So you make .80 on each loaf of bread, and you need to make $500, how many do you need make.... . y will be the number of loaves that we need. . So.... . Y x (.8) = $500. . So $500 / .8 = 625 loaves

@@ -1,0 +1,1 @@
+Length change and material stiffness change are both pretty small in metals.  Nonmetallic (e.g., elastomer) springs can have larger changes of both kinds and become noticeably weaker.

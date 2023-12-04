@@ -1,0 +1,1 @@
+G/L = General Ledger Accounts. . This is where you 'post' your credits and/or debits relating to financial cashflows in an organization.

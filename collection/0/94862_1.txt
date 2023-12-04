@@ -1,0 +1,1 @@
+You could also create a texture (or find an example of one online, like through google image search) and apply it with a blending mode on another layer...try testing out "Linear Dodge" or "Multiply", or "Screen". Of course, I'm assuming you're using Adobe Illustrator.

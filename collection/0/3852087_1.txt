@@ -1,0 +1,1 @@
+Theoretically, it's infinite.  There is some gravitational pull towards the earth no matter how far out, even though it may be minute.  You need to decide on  a limit, e.g. at what altitude does gravity become less than 0.01 m per s per s?

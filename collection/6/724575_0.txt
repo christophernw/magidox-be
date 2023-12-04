@@ -1,0 +1,1 @@
+Same thing happens as when you short out a capacitor with any conductive material -- quick surge of current through the conductor from the negative plate to the positive plate until the two charges are equalized. There will also be a very brief pulse of electromagnetism as happens with any conductor having current flow through it.

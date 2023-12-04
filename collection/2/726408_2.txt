@@ -1,0 +1,1 @@
+It has to do with how efficiently the petals can be placed. As the flower grows, its petals take up more room. The golden ratio makes it so the packing of the petals does not become too crowded in some areas and completely empty in others. The space that the plant has to work with is best optimized when the petals are arranged in the golden ratio.

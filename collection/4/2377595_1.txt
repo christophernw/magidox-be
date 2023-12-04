@@ -1,0 +1,1 @@
+Accelating charges (and only accelerating) always produce magnetic fields in the space around them. So with AC current the charge carriers are contually changing direction and must hence be accelerating and so produce magnetic fields. The flux rises and falls before reversing direction with each change in current direction

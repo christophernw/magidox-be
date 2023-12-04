@@ -1,0 +1,1 @@
+Two right triangles are similar if they share common angles. Then, the lengths of the sides can be set up as ratios.

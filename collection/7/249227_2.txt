@@ -1,0 +1,1 @@
+Every material has a certain frequency at which it enters its first (fundamental) mode of vibration. This is the resonance frequency of the material. Frequencies a little higher or lower will not induce complete oscillations and thus do not induce breakage.

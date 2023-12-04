@@ -1,0 +1,1 @@
+add all your grades together and divide by the nimber of grades.(average) let a variable represent the unknown grade.. . example: 100+98+78+a/4=at least a 80. that is how you solve it

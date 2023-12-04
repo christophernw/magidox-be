@@ -1,0 +1,1 @@
+Since twelve = 3 * 2 *2, at some point you need to divide it into three parts [assuming you meant 12 equal sections].. . Start with thirds of the circle, then split those, then split those again.. . Or, you could just measure off 30-degree sections.  360/12 = 30.

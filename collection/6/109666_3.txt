@@ -1,0 +1,1 @@
+Energy= Planck's constant &#92;times frequency

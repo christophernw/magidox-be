@@ -1,0 +1,1 @@
+That is really strange, even if you change the start up screen settings to own image or text, the sound still comes. I disabled in all profiles the warning tones. So the startup sound is disabled too.

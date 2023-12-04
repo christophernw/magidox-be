@@ -1,0 +1,1 @@
+a matrix where )i,j) are the co-odenates of hte point where it begns

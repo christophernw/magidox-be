@@ -1,0 +1,1 @@
+In electronics, the max range of the power supply.. . In single 5V system, like digital, its 5 volts.. In split rail, like +12/-12, its 24 volts.

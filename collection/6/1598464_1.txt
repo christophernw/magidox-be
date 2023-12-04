@@ -1,0 +1,1 @@
+Depends on what you want to find the volume of. For a box, length x width x height. For a cylinder, 3.14R^2 x height. Basically, the surface area of the shape at its base, multiplied by its height, so long as the container in question has a single, consistent shape.

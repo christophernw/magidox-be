@@ -1,0 +1,1 @@
+it allows some light to pass through it, or "conducts" light...it DOES NOT DIFFUSE LIGHT by definition.  a perfectly clear window is translucent, and so is a stained glass window. is not the same a transparent though, because it does not necessarily allow all frequencies of light through,

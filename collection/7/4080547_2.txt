@@ -1,0 +1,1 @@
+It's a mathematical operation that gives you an equation for the slope of a line which can have physical meaning. For example the if you have an equation that gives a location of something as a function of time, the slope is its velocity.

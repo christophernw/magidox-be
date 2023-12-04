@@ -1,0 +1,1 @@
+It has to do with the difference between ink and screen color - . . Screen colors are made of Red, Green and Blue (RGB). Printers colors are made of Cyan (which is like blue) Magenta Yellow and Black (CMYK)

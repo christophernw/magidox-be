@@ -1,0 +1,1 @@
+n x 0 = n can be true only if n=0.

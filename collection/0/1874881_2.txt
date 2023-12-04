@@ -1,0 +1,1 @@
+The mobile phone system works on the concept of dividing areas into small cells. Each base station covers a particular group of cells. For simplicity a large area is divided into a group of 7 hexagonal cells and this is repeated throughout the coverage area.

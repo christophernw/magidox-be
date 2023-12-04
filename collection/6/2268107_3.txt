@@ -1,0 +1,1 @@
+see if it passes the verticle line test, or take a straight edge and hold it verticaly on your graph and make sure that only one point is on the straight edge

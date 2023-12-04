@@ -1,0 +1,1 @@
+When anyone posted a question, it display the most recent question and pushed the other questions and so on. When someone posted a question, your question will be pushed behind as new questions are asked

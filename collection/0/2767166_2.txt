@@ -1,0 +1,1 @@
+Distributions with more than one mode are called multimodal distributions.. For this particular case, you've got a bimodal distribution:. there ARE (note plural) two modes

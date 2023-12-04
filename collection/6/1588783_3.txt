@@ -1,0 +1,1 @@
+a cell that has a specific function that only that cell can execute.. . example: red bloodcells.

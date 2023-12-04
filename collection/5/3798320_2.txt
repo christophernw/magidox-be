@@ -1,0 +1,1 @@
+It's that little rectangle of black bars and numbers that's printed on the foil wrapper to identify the product.  When it's scanned at the checkout, the code is identified by the system as belonging to a creme egg and the till registers the correct item and price.

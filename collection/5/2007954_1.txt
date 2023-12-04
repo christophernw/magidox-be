@@ -1,0 +1,1 @@
+Not advised to try.  If you apply 240 to the motor, it will try to turn at the rated RPM and will draw more current from 240v to do so.  Overheating and no power on the motor.

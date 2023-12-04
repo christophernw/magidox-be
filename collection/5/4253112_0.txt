@@ -1,0 +1,1 @@
+Once you burn a CD the data is there to stay unless its a read/write disc in that case you just record over the old data to get rid of it.. . Open up Windows Media Player.  Click the Burn tab, select the songs you want to burn.  Click start burn.

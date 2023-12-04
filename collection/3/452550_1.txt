@@ -1,0 +1,1 @@
+Yes, it is a switch, as other answerers have mentioned.  However, newer solid-state power relays differ from magnetic-solenoid relays, and operate from low voltage (2 to 5 volts) direct current (dc)

@@ -1,0 +1,1 @@
+As far as I know, degauss is only for CRT displays. Since your handheld most likely is using LCD, I doubt degaussing the display is the solution.. . Maybe the LCD is broken.

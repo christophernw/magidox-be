@@ -1,0 +1,1 @@
+do you have Java installed?  That will give you a red X as well as not having flash installed will do the same.

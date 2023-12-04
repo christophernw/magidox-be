@@ -1,0 +1,1 @@
+Not just fuel injection but more precise metering of the Air:Fuel ratio (AFR).  Basically modern cars have a better idea of how much air is entering the engine so they can put in just the right amount of fuel so that it burns more efficiently and cleanly.

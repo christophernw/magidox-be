@@ -1,0 +1,1 @@
+Way back when I was in school they taught us the FOIL method.. . First  x * x = x^2. Outides  x * -y = -xy. Inside   -y * x = -xy. Last     -y * -y = y^2. . So, you would have x^2 - 2xy + y^2

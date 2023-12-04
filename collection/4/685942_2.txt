@@ -1,0 +1,1 @@
+make a chart, by giving values you substitute values you want in one variable like "x", everywhere you see an x place a 1 instead and get the value of the other variable. Then substitute the x value for let's say 2, and do the same. once you have done this for some values, place them in a x-y graph, and then join the dots with a line.

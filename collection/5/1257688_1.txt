@@ -1,0 +1,1 @@
+In complex analysis, a branch of mathematics, Morera's theorem states that if the integral of a continuous complex-valued function f of a complex variable along every simple closed curve within an open set is zero, that is, if. for C any simple closed curve, then f is differentiable or "holomorphic" at every point in that open set.

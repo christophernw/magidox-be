@@ -1,0 +1,1 @@
+in a series ckt. we calculate as r1 + r2 + r3. . in pararell. 1/r1 + r2  r3

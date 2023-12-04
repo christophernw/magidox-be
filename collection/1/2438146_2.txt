@@ -1,0 +1,1 @@
+In mathematics, a polynomial is an expression in which a finite number of constants and variables are combined using only addition, subtraction, multiplication, and non-negative whole number exponents (raising to a power).

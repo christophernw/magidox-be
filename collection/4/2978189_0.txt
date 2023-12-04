@@ -1,0 +1,1 @@
+One way to see this is to write x^(1-x) as exp((1-x)ln x) and use the chain rule. Only one person has the correct answer, art_colls. The power rule *does not apply* since the exponent is a function also!

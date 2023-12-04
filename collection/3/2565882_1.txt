@@ -1,0 +1,1 @@
+Julieta,.  .     A mole of O2 contains two oxygen atoms per molecule of O2, so it contains 2 gram-atoms of O..   So, to convert moles of O2 to weight (grams): .   .    (x moles of O2)(2 atoms/molecule)(16 g/mole of oxygen atoms) = 32x grams. . where 16g/mole is the atomic weight of an oxygen atom, and x is the number of moles of O2.

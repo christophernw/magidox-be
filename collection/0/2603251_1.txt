@@ -1,0 +1,1 @@
+Plane means angle. In this case, angle of application of force.

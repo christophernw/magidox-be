@@ -1,0 +1,1 @@
+In the game of poker, a full house is a hand where you have three of a kind of one suit, and a pair in another.  Three kings and two queens would be a full house.  In poker hierarchy, a full house beats a flush, but is beaten by 4 of a kind.

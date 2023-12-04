@@ -1,0 +1,1 @@
+A digital tachometer generally uses a laser light to detect rotations and calculates the rpm. it uses the principle of reflection of light from a surface. the rotating shaft / teeth has got markings on surface. the device detects the interval between reoccurance of same mark/blank space and calculates the rpm.

@@ -1,0 +1,1 @@
+speed shows how fats an object is moving while velocity shows the speed and the DIRECTION. so an object having a speed of 30 km/h travelling west has a velocity of 30km/h W

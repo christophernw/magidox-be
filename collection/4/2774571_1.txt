@@ -1,0 +1,1 @@
+Only turns red after reaction with oxygen.

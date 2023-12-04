@@ -1,0 +1,1 @@
+heads probability one toss: 1/2 ( same as tails probability). 1/2 * 1/2 for both times = 1/4 = answer!!

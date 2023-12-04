@@ -1,0 +1,1 @@
+The reference angle is pi/3 (60 degrees) - get it buy subtracting 2pi (360) until you get an acute angle.. . csc is the reciprocal of sin.. . sin of pi/3 (sin 60) is rad3/2 so the csc value is 2/rad 3 which simplifies to 2 rad 3 / 3.

@@ -1,0 +1,1 @@
+Oh, lots of reasons. . * need something that works better than existing stuff. * need something that is easier to maintain than existing stuff. * need something that is cheaper than existing stuff. * need something that makes existing stuff works better. . and basically any combination of the stuff above.

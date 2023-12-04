@@ -1,0 +1,1 @@
+For a rough aprox, lets say that you weigh 600 N,. k=F/x lets say that x, on average, is about 1mm or 10^-3 m. That means that k is 600N/10^-3m or about 600,000 N/m. Your guess is about the same.  That should be good.

@@ -1,0 +1,1 @@
+It depends on the type of motor. The website below shows the induction motor types.. http://www.tcf.com/TCFBlower/pdfs/engr_data/ED1100.pdf. To reverse the direction, you reverse any one of the two windings.

@@ -1,0 +1,1 @@
+Definition: A polynomial is an algebraic expression that is a sum of terms, where each term contains only variables with whole number exponents and integer coefficients. . the words are big but I think you may get the jist

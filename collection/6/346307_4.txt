@@ -1,0 +1,1 @@
+Search free BMI calculator, this should get you to a page where you can enter your height and weight, and from that find out what range you are in.

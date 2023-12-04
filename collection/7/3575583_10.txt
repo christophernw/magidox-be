@@ -1,0 +1,1 @@
+LHS = Left Hand Side. . It is generally used in the proving of equations.. And the opposite to this would be RHS which is Right Hand Side.. . E.g. Prove that 2+3 = 4+1. . LHS = 2+3 = 5 = 4+1 = RHS

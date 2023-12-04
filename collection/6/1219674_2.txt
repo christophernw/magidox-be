@@ -1,0 +1,1 @@
+I'm not sure what you're doing but to find intercepts my teacher taught us to plug in 0 for X and solve for Y and vice versa, so if you have an equation (for a line) that is how you solve it.  hope that helps

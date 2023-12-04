@@ -1,0 +1,1 @@
+The link below has a good discussion of the load line.  It is just a means to predict the output of a transistor for a given base current input, available voltage and load resistor.

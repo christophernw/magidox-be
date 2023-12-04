@@ -1,0 +1,1 @@
+The ESRI Shapefile is a data-type used in many Geographic Information Systems software products. It was originated by ESRI primarily for use with their product ArcView. ESRI established the shapefile format. Many non-ESRI products may use the shapefile format; however they still have to meet the format established by ESRI if they wish to use the term shapefile properly.

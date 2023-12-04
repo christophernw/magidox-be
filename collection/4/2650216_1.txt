@@ -1,0 +1,1 @@
+Hook a tape deck up to your sound card and find a way to record the signal and than rip those files. I think there are also some USB tape readers.

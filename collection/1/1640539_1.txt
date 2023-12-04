@@ -1,0 +1,1 @@
+In engineering terms pendulums are called mass dampers, usually either active mass dampers or passive/tuned mass dampers.  Check out the Earthquake Engineering Research Institute to start.

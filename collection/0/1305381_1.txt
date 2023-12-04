@@ -1,0 +1,1 @@
+It might be that it's showing you a temporary picture and it's taking 3 seconds to get the colour information.  It might not be a bug at all but rather a feature to make the channel change faster for channel surfers.

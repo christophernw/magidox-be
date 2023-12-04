@@ -1,0 +1,1 @@
+There should be a positive and negitive wire that need to be seperate.  Place solder gun on the wire , let it heat up and than place a small amount of solder on the hot wire , remove heat and let harden, repeat on other wire , making sure not to reheat first wire. Tape the solder joints after the are cooled to prevent them from grounding out.

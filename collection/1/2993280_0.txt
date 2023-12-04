@@ -1,0 +1,1 @@
+You can get a replacement switch at any auto parts store and it's real easy to put in.  You can run a jumper wire from the battery to the coil, but it will burn up the coil if you run it that way for too long (without a ballast resistor).

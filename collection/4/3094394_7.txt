@@ -1,0 +1,1 @@
+The spellchecker is giving you the correct spelling for the most common usage. We are speaking English and, since the word Internet is usually used as a proper noun referring to the Internet, that is what the spellchecker came up with. If you were using the word as an adjective (e.g. internet protocols), capitalization would be incorrect.

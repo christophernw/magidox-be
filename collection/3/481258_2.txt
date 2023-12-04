@@ -1,0 +1,1 @@
+Battery wire down the driver's side of the vehicle, RCA's down the passenger side - keeping them as far apart as possible. Ground wire should be located within 18" of the amplifier and should be the same wire gauge as the power wire. Run your turn-on wire with your RCA's, and you are good to go.

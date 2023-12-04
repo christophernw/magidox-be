@@ -1,0 +1,1 @@
+Depends on the system of units.. . In SI all forms of energy are measured in Joules.. . The Joule is a derived unit not a fundamental one - 1 Joule = 1 kilgramme metre^2/second^2.

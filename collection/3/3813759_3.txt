@@ -1,0 +1,1 @@
+Bouyancy= Weight of the object - weight of the water displaced. . Simply means the ability to float . . For example: The square object made of wood has a hollow center the the volume of the hollow center is one cubic meter. . . The square object is weighted= 500kg. The hollow center is 1 cubic meter = density of water = 1000kg/cubic meter. . Bouysncy = 1000-500= 500 Kg.

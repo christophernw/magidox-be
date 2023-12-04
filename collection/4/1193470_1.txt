@@ -1,0 +1,1 @@
+1. location 2. size of home 3, prices of homes sold in the past three months..or longer if there have not been many sales.  (not prices being asked do not count..only the sold prices..) 4. condition of houses

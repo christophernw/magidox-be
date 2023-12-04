@@ -1,0 +1,1 @@
+One way to "visualize" an electron in a stable orbital is a standing wave spread all across the orbital, distributing mass/momentum and charge of the electron over its hyperarea.

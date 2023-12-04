@@ -1,0 +1,1 @@
+use a lithmus paper, assume a lithmus paper is color pink. when the lithmus paper turns to red or stays to pink then the solution is pink. when the lithmus paper turns to blue then it is a base. mostly of the solution having OH in the structure or hydroxide in the solution's name are acids.

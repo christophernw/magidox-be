@@ -1,0 +1,1 @@
+11.3 Km/sec at earth's surface (7 miles/sec). . NOTE that escape velocity is the speed with which you would throw an object so that it does not fall back to earth. Rockets for example have constant propulsion and therefore do not need to travel with escape velocity to go into space.

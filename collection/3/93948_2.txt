@@ -1,0 +1,1 @@
+Ductile to brittle transition temperature is a temperature at which a material which behaves in a ductile manner, shows brittle failures. This temperature is generally below -15°c. It varies for different materials. In other words, The tensile strength of material decreases drastically below this temperature

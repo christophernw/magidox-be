@@ -1,0 +1,1 @@
+non-directional tire can be rotated among all four corners. directional tires are usually speed rated( commonly Z-rated), but can only be rotated between left or right side., so, naturally they dont last as long/

@@ -1,0 +1,1 @@
+Laser guidance system send a laser light to the target and when it falls on the target its creates the channel which locks the object. Till the desired result is obtained. It may be distorying the enemy aircraft or tumor.

@@ -1,0 +1,1 @@
+you can not erase a cd-r. The r stands for read only. You can only erase cd-rw which stands for re-write.

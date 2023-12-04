@@ -1,0 +1,1 @@
+Go to Mapquest, click "driving directions" type in your starting point, then your destination...there should be a link for reverse driving directions. If not, Yahoo has a similar service

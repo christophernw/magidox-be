@@ -1,0 +1,1 @@
+Set up something that the blades will hit - like a piece of cardboard. Record the sound on your computer with a microphone. If you look at the waveform in a .wav editor (like cool edit pro), you will see peaks in the sound everytime a blade hits. You can then determine the frequency of the hits, and divide by the number of blades on your fan to work out the RPM.

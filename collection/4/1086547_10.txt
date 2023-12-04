@@ -1,0 +1,1 @@
+Palindromes are words that are spelled the same way forward and backward.

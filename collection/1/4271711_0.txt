@@ -1,0 +1,1 @@
+You have two ways:. Old one: Thomson divide the arc into strips at equal intervals and solve each.. New one: Integrate from y=0, first root to y=0 second root

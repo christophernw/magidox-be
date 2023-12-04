@@ -1,0 +1,1 @@
+WiFi is a type of wireless network which usually is used to access the web at coffee shops but the coffe shop must provide wifi access.

@@ -1,0 +1,1 @@
+It means that the phone can operate at 2 different frequencies.  Useful for travelling to different countries as some countries use different frequencies to transmit on.

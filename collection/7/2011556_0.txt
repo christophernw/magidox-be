@@ -1,0 +1,1 @@
+area = 1/2 the base times the height, where base is "flat bottom" of the triangle and the height is length of the perpendicular from the angle opposite the base drawn down to the base

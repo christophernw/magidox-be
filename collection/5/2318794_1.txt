@@ -1,0 +1,1 @@
+you have to reset the main microprocessor. Should be in the owners guide or the service mnanual

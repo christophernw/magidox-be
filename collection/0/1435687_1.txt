@@ -1,0 +1,1 @@
+Galvanometer is a meter that measures the electricity passing through a circuit. Depending on how a galvanamter is calibrated and connected to the circuit, it can be used as an ammeter for measuring electric current or as a voltmeter for measuring potential difference.

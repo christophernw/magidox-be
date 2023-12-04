@@ -1,0 +1,1 @@
+well a monomial (say 6x^2) is factored, you could say write it as a product of prime numbers and variables which would be 2*3*X*X. . hope that helps

@@ -1,0 +1,1 @@
+It has to do with the exact nature of the inverse square law for gravity. No other force law will give this type of orbit and the only way to really show it is to solve the differential equations of motion. So to a good classical mechanics book to find a derivation, but  you will need to know calculus and differential equations.

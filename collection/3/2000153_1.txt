@@ -1,0 +1,1 @@
+If the mail ID is not valid anymore, then your sent mail will be returned by the mail server automatically, leting you know that this mailing address does not exist.

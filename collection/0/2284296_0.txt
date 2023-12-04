@@ -1,0 +1,1 @@
+measure of arc = twice the measure of the inscribed angle

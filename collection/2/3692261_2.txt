@@ -1,0 +1,1 @@
+The amplitude would be |-2| = 2. The waveform will swing between -2 to 2 as the value of sin(3x) will swing between -1 to 1.

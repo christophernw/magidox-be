@@ -1,0 +1,1 @@
+buoyancy is the upward force on a submerged object and is equal to the weight of the fluid the object displaces (its volume).  density is the mass of an object per unit of volume.  if an object weighs less than the weight of the fluid it would displace it will float and if it weighs more than the fluid it will displace it will sink.

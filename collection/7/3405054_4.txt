@@ -1,0 +1,1 @@
+find the least common multiple. in example... 3/4 and 6/7...4 x 7 = 28.... then you flip-flop...3 x 7 and 6 x 4... 21 and 24 = 45... 45/28!!! easy right? not really unless you're nasty at math such as myself.

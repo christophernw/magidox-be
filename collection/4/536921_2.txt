@@ -1,0 +1,1 @@
+voltage is always a specification of a resistor, along with power dissipation

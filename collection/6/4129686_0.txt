@@ -1,0 +1,1 @@
+the goal is to make the total amount of atoms on each side equal. . so you add coeficients to the front of molecules (which is multiplied by the little numbers on bottom) and see if you can get the same number on both sides. its kind of hard sometiems if you dont see it.
