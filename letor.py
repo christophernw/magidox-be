@@ -3,8 +3,8 @@ import numpy as np
 import re
 import random
 
-from mpstemmer import MPStemmer
-from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
+#from mpstemmer import MPStemmer
+#from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
 from scipy.spatial.distance import cosine
 from gensim.corpora import Dictionary
@@ -69,8 +69,8 @@ class LambdaMart:
         self.dataset = []
         self.val_dataset = []
 
-        self.stemmer = MPStemmer()
-        self.stop_word_remover = StopWordRemoverFactory().create_stop_word_remover()
+       #self.stemmer = MPStemmer()
+       #self.stop_word_remover = StopWordRemoverFactory().create_stop_word_remover()
 
         self.dictionary = Dictionary()
         
