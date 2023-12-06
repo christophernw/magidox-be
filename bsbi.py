@@ -441,7 +441,7 @@ class BSBIIndex:
 
 if __name__ == "__main__":
 
-    BSBI_instance = BSBIIndex(data_dir='collections',
+    BSBI_instance = BSBIIndex(data_dir='collection',
                               postings_encoding=VBEPostings,
                               output_dir='index')
     BSBI_instance.do_indexing()  # memulai indexing!
